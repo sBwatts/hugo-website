@@ -44,28 +44,28 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Professor Dr von Igelfeld
-          subtitle: "I am a Professor in the Institute of Romance Philology at the University of Regensburg, Germany. My research focuses on Portuguese irregular verbs. I was a doctoral student of Professor Dr Dieter Vogelsang in Munich, and later a second assistant of Professor Walter Schoeffler-Henschell at the University of Wiesbaden."
+          title: Seth Watts
+          subtitle: "I am a postdoctoral researcher at Arizona State University in the Center for Violence Prevention and Community Safety, and an incoming assistant professor at Texas State University. My research focuses on policing, technology, and public health."
           imageUrl: "headshot.jpeg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
+            - name: papers
               url: papers/
-            - name: Courses
+            - name: teaching
               url: courses/
 
     socialIcons:
         - name: CV
           url: cv.pdf
         - name: Email
-          url: mailto:moritz.maria.von.igelfeld@gmail.com
+          url: mailto:swatts12@asu.edu
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/citations?user=_zgKKS0AAAAJ&hl=en&oi=ao
         - name: GitHub
-          url: https://github.com/pmichaillat
+          url: https://github.com/sBwatts
         - name: Twitter
-          url: https://twitter.com/McCallSmith
+          url: https://x.com/SethBWatts
 
     assets:
         disableScrollBarStyle: true
