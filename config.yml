@@ -47,8 +47,8 @@ params:
           title: Seth Watts, PhD
           subtitle: "I am a postdoctoral researcher at Arizona State University in the Center for Violence Prevention and Community Safety, and an incoming assistant professor at Texas State University. My research focuses on policing, technology, and public health."
           imageUrl: "headshot.jpg"
-          imageWidth: 150
-          imageHeight: 170
+          imageWidth: 200
+          imageHeight: 200
           buttons:
             - name: papers
               url: papers/
