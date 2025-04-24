@@ -1,5 +1,5 @@
 baseURL: "https://sbwatts.github.io"
-title: Moritz-Maria von Igelfeld
+title: Seth Watts
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -10,25 +10,17 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
         - name: Papers
           url: papers/
           weight: 2
         - name: Courses
           url: courses/
           weight: 3
-        - name: Data
-          url: data/
-          weight: 4 
-        - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
-          weight: 6
+
 
 params:
-    description: "I am a Professor of Philology at the Institute of Romance Philology in Regensburg, Germany. My research focuses mostly on Portuguese irregular verbs."
-    author: Moritz-Maria von Igelfeld
+    description: "I am a postdoctoral researcher at Arizona State University in the Center for Violence Prevention and Community Safety, and an incoming assistant professor at Texas State University."
+    author: Seth Watts
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -62,16 +54,10 @@ params:
               url: papers/
             - name: Courses
               url: courses/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
             - name: Tags
               url: tags/
             - name: Archive
               url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
 
     socialIcons:
         - name: CV
@@ -101,7 +87,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Moritz-Maria von Igelfeld"
+      text: "Seth Watts"
       icon: favicon.ico
       iconHeight: 18
 
