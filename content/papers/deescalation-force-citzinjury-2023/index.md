@@ -8,8 +8,6 @@ description: "This paper evaluates the effects of De-escalation training on use 
 
 ---
 
-##### Download
-
 + [DOI](10.1007/s11292-023-09584-8)
 
 ---
@@ -26,7 +24,6 @@ description: "This paper evaluates the effects of De-escalation training on use 
 
 ---
 
----
 
 ##### Citation
 

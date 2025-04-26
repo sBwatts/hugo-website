@@ -8,8 +8,6 @@ description: "This paper examines the relationship between distance to service p
 
 ---
 
-##### Download
-
 + [DOI](https://doi/full/10.1080/0735648X.2024.2375371)
 
 ---
@@ -20,11 +18,9 @@ The purpose of this study is to examine whether there is a relationship between 
 
 ---
 
----
-
 ##### Citation
 
-Brown, K. L., Watts, S., Turner, P. R., \& Wallace, D. (2025). Does proximity to service providers impact punitivity in stop outcomes for individuals experiencing homelessness?. Journal of Crime and Justice, 48(2), 157-175.
+Brown, K. L., Watts, S., Turner, P. R., \& Wallace, D. (2025). Does proximity to service providers impact punitivity in stop outcomes for individuals experiencing homelessness? *Journal of Crime and Justice*, 48(2), 157-175.
 
 ```BibTeX
 @article{brown2025does,

@@ -8,8 +8,6 @@ description: "This paper examines alternative outcomes for police De-escalation 
 
 ---
 
-##### Download
-
 + [DOI](10.1016/j.jcrimjus.2023.102129)
 
 ---
@@ -23,8 +21,6 @@ description: "This paper examines alternative outcomes for police De-escalation 
 *Results.* Community members reported that trained officers were significantly more likely to use procedural justice and de-escalation; and were more likely to leave them satisfied with their treatment and how their encounter was resolved. Results from BWC footage were less persuasive, though trained officers were more likely to use some de-escalation tactics.
 
 *Conclusions.* Use of force as a singular metric of a training effect is too narrow. A comprehensive assessment of de-escalation training should consider multiple outcomes, including the potential effects in non-force encounters. Random review of BWC footage and community member surveys are two viable methods for achieving this objective.
-
----
 
 ---
 

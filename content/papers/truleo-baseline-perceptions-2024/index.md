@@ -8,8 +8,6 @@ description: "This paper examines baseline perceptions of Truleo, an AI-driven B
 
 ---
 
-##### Download
-
 + [DOI](https://doi.org/10.1093/police/paae107)
 + [Pre-print](https://www.crimrxiv.com/pub/8xm0r2jv/release/1)
 + [Post-print](truleo-preliminary-findings-postprint1.pdf)
@@ -25,7 +23,6 @@ Body-worn cameras (BWCs) have been widely adopted as a tool to promote police re
 
 ---
 
----
 
 ##### Citation
 

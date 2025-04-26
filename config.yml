@@ -10,12 +10,15 @@ taxonomies:
 
 menu:
     main:
-        - name: Papers
+        - name: Publications
           url: papers/
           weight: 2
+	- name: Working papers
+	  url: working-papers/
+	  weight: 3
         - name: Courses
           url: courses/
-          weight: 3
+          weight: 4
 
 
 params:
@@ -34,7 +37,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["papers", "courses"]
+    MainSections: ["publications", "working papers", "courses"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -50,8 +53,10 @@ params:
           #imageWidth: 180
           #imageHeight: 180
           buttons:
-            - name: papers
+            - name: publications
               url: papers/
+	    - name: working papers
+	      url: working-papers/
             - name: teaching
               url: courses/
 

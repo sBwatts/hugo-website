@@ -8,8 +8,6 @@ description: "This paper investigates what transpires at an opioid overdose when
 
 ---
 
-##### Download
-
 + [DOI](10.2105/AJPH.2022.306918)
 
 ---
@@ -23,8 +21,6 @@ description: "This paper investigates what transpires at an opioid overdose when
 *Results.* Police arrived on scene before the TFMR in 73.7\% of cases. In 88.6\% of calls the individual was unconscious when police arrived, but 94.6\% survived the overdose. The primary concerns about police-administered naloxone were rarely observed. There were no cases of improper naloxone administration or accidental opioid exposure to an officer. Aggression toward police from an overdose survivor rarely occurred (3.6\%), and arrests of survivors (3.6\%) and others on scene (1.2\%) were infrequent.
 
 *Conclusions.* BWC footage provides a unique window into opioid overdoses. In Tempe, the concerns over police-administered naloxone are overstated. If results are similar elsewhere, those concerns are barriers that must be removed. 
-
----
 
 ---
 

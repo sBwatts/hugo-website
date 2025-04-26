@@ -8,8 +8,6 @@ description: "This paper assesses the perceived utility of body-worn cameras dur
 
 ---
 
-##### Download
-
 + [DOI](10.1108/PIJPSM-10-2021-0151)
 
 ---
@@ -21,8 +19,6 @@ description: "This paper assesses the perceived utility of body-worn cameras dur
 *Design/methodology/approach* – The authors use survey data from 100 agencies with federally-funded BWCs to assess the prevalence of BWC deployment to George Floyd protests and perceived benefits and limitations of the technology within this unique context.
 
 *Findings* – About three-quarters of agencies encountered some level of demonstration/protest related to the killing of George Floyd, and the majority of those deployed BWCs during these demonstrations. Respondents indicated evidentiary value of footage was a key reason for doing so, and at least three preconditions for a civilizing effect were present.
-
----
 
 ---
 

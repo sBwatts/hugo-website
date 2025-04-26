@@ -8,8 +8,6 @@ description: "This paper provides an overview of the Tempe Opioid Recovery Proje
 
 ---
 
-##### Download
-
 + [PDF](moving-beyond-narcan-2021.pdf)
 + [DOI](10.1007/s12103-021-09625-w)
 
@@ -21,7 +19,6 @@ The opioid crisis is the most persistent, long-term public health emergency faci
 
 ---
 
----
 
 ##### Citation
 

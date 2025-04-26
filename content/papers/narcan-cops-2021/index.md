@@ -8,8 +8,6 @@ description: "This paper assesses officers perceptions of naloxone, opioids, and
 
 ---
 
-##### Download
-
 + [PDF](narcan-cops-2021.pdf)
 + [DOI](https://doi.org/10.1016/j.jcrimjus.2020.101778)
 
@@ -25,8 +23,6 @@ description: "This paper assesses officers perceptions of naloxone, opioids, and
 service.
 
 *Conclusion*: Officers accept this public health responsibility as part of their mission. Given that officers are frequently first on scene at overdoses and a matter of seconds can determine life or death, police-led naloxone programs will save lives in Tempe and elsewhere.
-
----
 
 ---
 
