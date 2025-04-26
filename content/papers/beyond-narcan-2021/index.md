@@ -3,7 +3,10 @@ title: "Moving Beyond Narcan: A Police, Social Service, and Researcher Collabora
 date: 2021-07-03
 tags: ["policing","naloxone","post-overdose outreach", "public safety and public health collaboration"]
 author: ["Michael D. White","Dina Perrone", "Seth Watts", "Aili Malm"]
+description: summary: "This paper provides an overview of the Tempe Opioid Recovery Project (ORP) which seeks to reduce opioid overdoses through public safety-public health collaboration. Published in the American Journal of Criminal Justice, 2021." 
 summary: "This paper provides an overview of the Tempe Opioid Recovery Project (ORP) which seeks to reduce opioid overdoses through public safety-public health collaboration. Published in the American Journal of Criminal Justice, 2021." 
+editPost:
+    Text: "Journal of Criminal Justice"
 ---
 
 ---
