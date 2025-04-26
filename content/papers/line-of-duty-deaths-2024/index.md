@@ -3,7 +3,7 @@ title: "A half-century investigation of police officer line-of-duty deaths: putt
 date: 2024-01-01
 tags: ["policing","line of duty deaths","covid-19"]
 author: ["Michael D. White","Khadija Monk", "Seth Watts"]
-description: "This paper provides an updated account of officer line of duty deaths through 2021 using data from the Officer Down Memorial Page. Published in the Journal of Experimental Criminology, 2024." 
+summary: "This paper provides an updated account of officer line of duty deaths through 2021 using data from the Officer Down Memorial Page. Published in Police Practice and Research, 2024." 
 ---
 
 ---

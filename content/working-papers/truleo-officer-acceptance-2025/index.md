@@ -3,7 +3,7 @@ title: "Officer Acceptance and Use of AI-Driven Body-Worn Camera Footage Review"
 date: 2025-03-27
 tags: ["policing","AI", "perceptions"]
 author: ["Michael D. White", "Aili Malm", "Seth Watts", "Genesis B. Naverrete"]
-description: "This paper examines perceptions of Truleo pre- and post-intervention and across weeks and months among users. Currently a working paper." 
+summary: "This paper examines perceptions of Truleo pre- and post-intervention and across weeks and months among users." 
 ---
 
 ---

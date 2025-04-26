@@ -3,7 +3,7 @@ title: "Does proximity to service providers impact punitivity in stop outcomes f
 date: 2025-01-01
 tags: ["policing","homelessness","distance decay"]
 author: ["Katherine L. Brown","Seth Watts", "Patricia Turner", "Danielle Wallace"]
-description: "This paper examines the relationship between distance to service providers and police decision making when interacting with homeless individuals. Published in the Journal of Crime and Justice, 2025." 
+summary: "This paper examines the relationship between distance to service providers and police decision making when interacting with homeless individuals. Published in the Journal of Crime and Justice, 2025." 
 ---
 
 ---

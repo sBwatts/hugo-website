@@ -3,7 +3,7 @@ title: "Beyond force and injuries: Examining alternative (and important) outcome
 date: 2021-11-01
 tags: ["policing","use of force","de-escalation"]
 author: ["Michael D. White","Carlena Orosco", "Seth Watts"]
-description: "This paper examines alternative outcomes for police De-escalation training. Published in the Journal of Criminal Justice, 2023." 
+summary: "This paper examines alternative outcomes for police De-escalation training. Published in the Journal of Criminal Justice, 2023." 
 ---
 
 ---

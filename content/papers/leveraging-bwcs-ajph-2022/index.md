@@ -3,7 +3,7 @@ title: "Leveraging body-worn camera footage to better understand opioid overdose
 date: 2022-08-15
 tags: ["policing","naloxone","body-worn cameras", "opioid overdose"]
 author: ["Michael D. White", "Seth Watts", "Carlena Orosco", "Dina Perrone", "Aili Malm"]
-description: "This paper investigates what transpires at an opioid overdose when police are on scene and to assess the veracity of the concerns surrounding police-involvement in opioid overdoses. Published in the American Journal of Public Health, 2022." 
+summary: "This paper investigates what transpires at an opioid overdose when police are on scene and to assess the veracity of the concerns surrounding police-involvement in opioid overdoses. Published in the American Journal of Public Health, 2022." 
 ---
 
 ---

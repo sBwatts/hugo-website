@@ -3,7 +3,7 @@ title: "Narcan cops: Officer perceptions of opioid use and willingness to carry 
 date: 2021-01-01
 tags: ["policing","naloxone","perceptions"]
 author: ["Michael D. White","Dina Perrone", "Aili Malm", "Seth Watts"]
-description: "This paper assesses officers perceptions of naloxone, opioids, and people who use opioids. Published in the Journal of Criminal Justice, 2021." 
+summary: "This paper assesses officers perceptions of naloxone, opioids, and people who use opioids. Published in the Journal of Criminal Justice, 2021." 
 ---
 
 ---

@@ -3,7 +3,7 @@ title: "Automating body-worn camera footage review through AI: baseline attitude
 date: 2024-10-19
 tags: ["policing","naloxone","AI", "perceptions"]
 author: ["Seth Watts", "Michael D. White", "Aili Malm"]
-description: "This paper examines baseline perceptions of Truleo, an AI-driven BWC analytics platform, among police officers in two agencies in Arizona. Published in Policing: A Journal of Policy and Practice, 2024." 
+summary: "This paper examines baseline perceptions of Truleo, an AI-driven BWC analytics platform, among police officers in two agencies in Arizona. Published in Policing: A Journal of Policy and Practice, 2024." 
 ---
 
 ---

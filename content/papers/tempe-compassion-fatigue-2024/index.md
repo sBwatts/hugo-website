@@ -3,7 +3,7 @@ title: "Who is Fatigued? Examining Officer Attitudes Towards PWUOs, Naloxone, an
 date: 2024-11-01
 tags: ["policing","naloxone","perceptions", "compassion fatigue"]
 author: ["Seth Watts", "Michael D. White","Dina Perrone", "Aili Malm"]
-description: "This paper examines the compassion fatigue hypothesis toward responding to opioid overdoses and people who use opioids, among police officers. Published in the Journal of Criminal Justice, 2024." 
+summary: "This paper examines the compassion fatigue hypothesis toward responding to opioid overdoses and people who use opioids, among police officers. Published in the Journal of Criminal Justice, 2024." 
 ---
 
 ---

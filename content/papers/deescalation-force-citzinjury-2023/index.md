@@ -3,7 +3,7 @@ title: "Can police de-escalation training reduce use of force and citizen injury
 date: 2023-08-11
 tags: ["policing","use of force","de-escalation"]
 author: ["Michael D. White","Carlena Orosco", "Seth Watts"]
-description: "This paper evaluates the effects of De-escalation training on use of force and citizen injury. Published in the Journal of Experimental Criminology, 2023." 
+summary: "This paper evaluates the effects of De-escalation training on use of force and citizen injury. Published in the Journal of Experimental Criminology, 2023." 
 ---
 
 ---

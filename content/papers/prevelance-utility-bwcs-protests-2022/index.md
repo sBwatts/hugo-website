@@ -3,7 +3,7 @@ title: "Investigating the prevalence and utility of police body-worn cameras in 
 date: 2022-07-22
 tags: ["policing","body-worn cameras","protests"]
 author: ["Janne E. Gaub", "Michael D. White","Aili Malm", "Seth Watts", "Katherine Leigh Brown"]
-description: "This paper assesses the perceived utility of body-worn cameras during the 2020 George Floyd protests. Published in Policing: An International Journal, 2022." 
+summary: "This paper assesses the perceived utility of body-worn cameras during the 2020 George Floyd protests. Published in Policing: An International Journal, 2022." 
 ---
 
 ---
