@@ -1,5 +1,5 @@
 ---
-title: "A half-century investigation of police officer line-of-duty deaths: putting the recent spike in long-term context"
+title: "Does proximity to service providers impact punitivity in stop outcomes for individuals experiencing homelessness?"
 date: 2025-01-01
 tags: ["policing","homelessness","distance decay"]
 author: ["Katherine L. Brown","Seth Watts", "Patricia Turner", "Danielle Wallace"]
