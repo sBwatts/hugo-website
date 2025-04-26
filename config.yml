@@ -55,8 +55,8 @@ params:
           buttons:
             - name: publications
               url: papers/
-	    - name: working papers
-	      url: working-papers/
+            - name: working papers
+              url: working-papers/
             - name: teaching
               url: courses/
 
