@@ -59,6 +59,7 @@
 
 <section id="latest-work">
   <h2>Latest Work</h2>
-  {{< latest 5 >}}
+  {{ partial "shortcodes/latest.html" (dict "ctx" . "n" 5) }}
 </section>
+
 
