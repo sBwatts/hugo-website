@@ -6,19 +6,19 @@ enableInlineShortcodes: true
 enableRobotsTXT: true
 
 taxonomies:
-    tag: tags
+  tag: tags
 
 menu:
-    main:
-        - name: Publications
-          url: papers/
-          weight: 1
-	- name: Working papers
-	  url: working-papers/
-	  weight: 2
-        - name: Courses
-          url: courses/
-          weight: 3
+  main:
+    - name: Publications
+      url: papers/
+      weight: 1
+    - name: Working papers
+      url: working-papers/
+      weight: 2
+    - name: Courses
+      url: courses/
+      weight: 3
 
 
 params:
