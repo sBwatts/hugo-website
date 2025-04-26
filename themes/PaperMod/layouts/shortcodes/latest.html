@@ -1,0 +1,9 @@
+<ul>
+  {{ $sections := where .Site.RegularPages "Section" "in" (slice "papers" "working-papers") }}
+  {{ range first .Get 0 (sort $sections "Date" "desc") }}
+    <li>
+      <a href="{{ .RelPermalink }}">{{ .Title }}</a> — {{ .Date.Format "Jan 2, 2006" }}
+    </li>
+  {{ end }}
+</ul>
+
