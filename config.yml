@@ -10,13 +10,13 @@ taxonomies:
 
 menu:
   main:
-    - name: Publications
+    - name: publications
       url: papers/
       weight: 1
-    - name: Working papers
+    - name: working papers
       url: working-papers/
       weight: 2
-    - name: Courses
+    - name: teaching
       url: courses/
       weight: 3
 

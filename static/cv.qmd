@@ -60,11 +60,11 @@ White, M. D., **Watts, S.**, Malm, A., & Navarrete, G. B. (2025). Officer Accept
 
 # Work in Progress
 
-Implementation Science Natural Experiment: Does Automated Feedback Impact Officers’ Perceptions?
+Watts, S., del Pozo, B., White, D. M., & Malm, A. Implementation Science Natural Experiment: Does Automated Feedback Impact Officers’ Perceptions?
 
 # Publications
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=_zgKKS0AAAAJ&hl=en&oi=ao): total citations = 121, h-index = 5, i10-index = 4
+[Google Scholar Profile](https://scholar.google.com/citations?user=_zgKKS0AAAAJ&hl=en&oi=ao): total citations = 126, h-index = 5, i10-index = 4
 
 ## Peer-Reviewed Journal Articles
 
@@ -141,6 +141,8 @@ White D. M., Perrone, D., Malm, A., & Watts, S. (September 16, 2021). The Tempe 
 
 ## Conference Presentations^[Presented by coauthor ($P$)]
 
+Watts, S., White, M. D., Malm, A. (April, 2025). Perceptions, Use, and Impact of Truleo in Three Arizona Law Enforcement Agencies. American Society of Evidence-Based Policing
+
 Watts, S., White, M. D., Malm, A. (November, 2024). How do Officers Perceive AI-based BWC Review Technology? Evidence from 6 Months of Survey Data. American Society of Criminology. *Sponsored by the division of Policing*.
 
 White, M. D., Malm, A., Watts, S. (November, 2024). Automating Body-Worn Camera Footage Review Through AI:
@@ -148,8 +150,7 @@ Preliminary Findings from a Multi-Site Randomized Control Trial. American Societ
 
 Watts, S., White, M. D. (November, 2024). Collaborative Post-Overdose Outreach Efforts to Engage Homeless Individuals. American Society of Criminology.
 
-White, M. D., Watts, S. (June, 2024). Exploring the Drivers of Resistance to Police-Led
-Naloxone Programs. American Society of Evidence Based Policing. 
+White, M. D., Watts, S. (June, 2024). Exploring the Drivers of Resistance to Police-Led Naloxone Programs. American Society of Evidence-Based Policing. 
 
 Gutierrez, S., Mathis, S., Sanuth, A., Watts, S., Wallace, D. (February, 2024). Is Law-Violating Driving Behavior Race Specific? Mapping Rates of At-Fault Traffic Accidents by Race. Western Society of Criminology.$^P$
 
@@ -206,17 +207,11 @@ American Society of Criminology, Division of Policing Travel Award ($500)   \hfi
 
 ## Conferences Attended
 
-American Society of Criminology. San Francisco, California \hfill 2024
+Academy of Criminal Justice Sciences \hfill 2022
 
-American Society of Evidence-Based Policing. Spokane, Washington \hfill 2024
+American Society of Criminology \hfill 2022, 2023, 2024
 
-American Society of Criminology. Philadelphia, Pennsylvania \hfill 2023
-
-American Society of Criminology. Atlanta, Georgia \hfill 2022
-
-Academy of Criminal Justice Sciences. Las Vegas, Nevada \hfill 2022
-
-Center for Undergraduate Research Symposium. Bowling Green, Ohio \hfill 2019
+American Society of Evidence-Based Policing  \hfill 2024, 2025
 
 
 ## Manuscript Reviews
