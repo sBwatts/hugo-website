@@ -1,31 +1,33 @@
 ---
-title: CV
-format:
-  quarto-cv-pdf: default
-author: Seth Watts
-date: last-modified
-#phone: 123-456-7890
-address: |
-    Assistant Professor, School of Criminal Justice & Criminology
-    Texas State University
-email: sbwatts@txstate.edu
-fontsize: 11pt
-#fontfamily: lmodern # default font LaTeX package https://tug.org/FontCatalogue/about.html
-mainfont: "Roboto" # if you want to use a different locally installed font
-#CJKmainfont: Noto Sans CJK JP # locally installed Asian character font, must use with xelatex
-#github:  # github account
-orcid: 0000-0002-5108-9055 # orcid identifier
-#osf: qn8y6 # osf five character id
-#twitter: twitter # twitter handle
-web: sethbwatts.com
-fontawesome: yes
-nocite: '@*'
-bibliography: 
-  peer: peer_bib.bib
-  other: other_bib.bib
-validate-yaml: false
-csl: apa-cv.csl
+output: stevetemplates::cv
+geometry: margin=1in
 
+title: "CV"
+author: Seth Watts
+
+jobtitle: "Assistant Professor, Criminal Justice & Criminology"
+address: "Texas State University · San Marcos, TX"
+fontawesome: yes
+email: sethbwatts@txst.edu
+github: sbwatts
+# twitter: stevenvmiller
+#osf: "Enter 5 digit osf string here"
+#phone: "+353 1 408 4800"
+web: sethbwatts.com
+updated: TRUE
+rdateformat: "`r format(Sys.time(), '%d %b %Y')`"
+
+keywords: R Markdown, academic CV, template
+
+header-includes:
+  - \usepackage{xcolor}
+  - \definecolor{txst}{HTML}{501214}
+  
+fontfamily: mathpazo
+fontfamilyoptions: sc, osf
+fontsize: 11pt
+linkcolor: txst
+urlcolor: txst
 ---
 
 # Education
@@ -80,7 +82,7 @@ Watts, S., White, D, M., & Malm, A. AI in Policing: Capturing Police Performance
 
 1. **Watts, S**., White, M. D., Malm, A., & Perrone, D. (2024). Who is Fatigued? Examining Officer Attitudes Towards People Who Use Opioids, Naloxone, and Their Role in Responding to Opioid Overdoses. *Journal of Criminal Justice*, 95, 102308. [(DOI)](https://doi.org/10.1016/j.jcrimjus.2024.102308) 
 
-1. **Watts, S**., White, M. D., & Malm, A. (2024). Automating Body-Worn Camera Footage Review through AI: Preliminary Findings from a Multi-Site Randomized Control Trial. *Policing: A Journal of Policy and Practice*, 18, paae107. [(Pre-print)](https://www.crimrxiv.com/pub/8xm0r2jv/release/1) [(DOI)](https://doi.org/10.1093/police/paae107)
+1. **Watts, S**., White, M. D., & Malm, A. (2024). Automating Body-Worn Camera Footage Review through AI: Preliminary Findings from a Multi-Site Randomized Control Trial. *Policing: A Journal of Policy and Practice*, 18, paae107. [(pre-print)](https://www.crimrxiv.com/pub/8xm0r2jv/release/1) [(DOI)](https://doi.org/10.1093/police/paae107)
 
 1. Brown, K., **Watts, S**., Turner, P., & Wallace, D. (2024). How Does Proximity to Service Providers Impact Punitivity in Stop Outcomes for Individuals Experiencing Homelessness? *Journal of Crime and Justice*, 1-19. ([DOI](https://doi-org.ezproxy1.lib.asu.edu/10.1080/0735648X.2024.2375371))
 
@@ -241,7 +243,7 @@ American Society of Evidence-Based Policing  \hfill 2024, 2025
 
 ## Professional Development
 
-*Arizona State University* \hfill 2020-
+*Arizona State University* \hfill 2020-2024
 
 ### Certifications
 
@@ -256,7 +258,7 @@ American Society of Evidence-Based Policing  \hfill 2024, 2025
 
 ## Service to the University
 
-*Arizona State University* \hfill 2021-
+*Arizona State University* \hfill 2021-2025
 
 Peer Mentorship Program (for first year PhD students), Peer Mentorship Program (for MS students), Reviewer - MS Student’s Application Material for PhD Programs
 
@@ -277,4 +279,3 @@ Western Society of Criminology
 # References
 
 Available upon request.
-
