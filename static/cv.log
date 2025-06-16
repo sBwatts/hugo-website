@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.4)  7 JUN 2025 14:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.4)  8 JUN 2025 09:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -794,7 +794,7 @@ Here is how much of TeX's memory you used:
  36 hyphenation exceptions out of 8191
  117i,12n,121p,1014b,504s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/sethwatts/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk></Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv.pdf (7 pages, 128178 bytes).
+Output written on cv.pdf (7 pages, 128184 bytes).
 PDF statistics:
  291 PDF objects out of 1000 (max. 8388607)
  252 compressed objects within 3 object streams
