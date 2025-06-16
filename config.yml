@@ -62,9 +62,9 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: static/cv.pdf
         - name: Email
-          url: mailto:swatts12@asu.edu
+          url: mailto:sbwatts@txstate.edu
         - name: Google Scholar
           url: https://scholar.google.com/citations?user=_zgKKS0AAAAJ&hl=en&oi=ao
         - name: GitHub
