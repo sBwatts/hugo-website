@@ -62,7 +62,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: static/cv.pdf
+          url: cv.pdf
         - name: Email
           url: mailto:sbwatts@txstate.edu
         - name: Google Scholar
