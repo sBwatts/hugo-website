@@ -11,4 +11,4 @@ showToc: true
 ### Syllabus
 
 ### Lecture Slides
-1. [Week 1](https://sethbwatts.com/courses/crime-control-strat-2025/slides/week1.html)
+<!--1. [Week 1](https://sethbwatts.com/courses/crime-control-strat-2025/slides/week1.html)-->
