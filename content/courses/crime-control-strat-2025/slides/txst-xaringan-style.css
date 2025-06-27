@@ -1,16 +1,14 @@
 /* Let's load some fonts */
 
-/*
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web:200,200i,300,300i,400,400i,600,600i');
 @import url('https://fonts.googleapis.com/css?family=Open+Sans');
 @import url(https://fonts.googleapis.com/css?family=Ubuntu+Mono:400,700,400italic);
-*/
 
 /* Generic stuff */
 
 .remark-code, .remark-inline-code { font-family: 'monospace'; }
 
-body { font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;}
+body { font-family: 'Titillium Web', sans-serif;}
 
 .grViz {
   margin-left:auto; margin-right:auto; display:block;
@@ -19,7 +17,7 @@ body { font-family: "Segoe UI", "Helvetica Neue", Arial, sans-serif;}
 /* Pretty sure this is all me messing with the title slide */
 
 div.remark-slide-container h1 {
-	font-family: /*'Titillium Web'*/ 'Aptos', sans-serif;
+	font-family: 'Titillium Web', sans-serif;
 	color: #3e1f1f;
 	letter-spacing: -1px;
 	font-size: 36px;
@@ -40,14 +38,14 @@ div.remark-slide-container h1 {
 
 
 div.remark-slide-container h2 {
-	font-family: /*'Open Sans'*/ 'Aptos', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	color: #3e1f1f;
 	letter-spacing: -1px;
 	font-size: 24px;
 }
 
 div.remark-slide-container h3 {
-	font-family: /*'Open Sans'*/ 'Aptos', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	color: #000;
 	letter-spacing: -1px;
 	font-size: 20px;
@@ -74,7 +72,7 @@ div.remark-slide-container h3 {
 
 
 .remark-slide-number {
-	font-family: /*'Open Sans'*/ "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 14px;
 	color: #3e1f1f;
 }

@@ -8,17 +8,45 @@ output:
     css: ["default", "txst-xaringan-style.css"]
     lib_dir: libs
     self-contained: true
+    seal: false
     nature:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
 ---
 
+class: center, middle
+background-image: url("tsu-logo.jpg")
+background-position: 50% 70%
+background-size: 40%
+
+# Politics & Policy
+## CJ 4310: Special Problems in the Criminal Justice System
+
+<br>
+<br>
+
+**Seth Watts, PhD**
+
+School of Criminal Justice & Criminology
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+August 25, 2025
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+---
 
 class: middle
+
 ## Overview
 
 1. Introduction
