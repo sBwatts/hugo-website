@@ -417,7 +417,6 @@ class: middle
 
 - CJ policy often falls along a spectrum of two predominate viewpoints (CC vs. DP)
 
---
 
 <br >
 > "The criminal justice system is not primarily about crime control. It is about maintaining a certain social order"

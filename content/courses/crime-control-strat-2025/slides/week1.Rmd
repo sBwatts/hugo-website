@@ -381,7 +381,7 @@ According to Mears (2010) here are some reasons that rational policy takes the b
 
 ]
 
-```{r, echo=FALSE, out.width="30%", fig.align="left"}
+```{r, echo=FALSE, out.width="25%", fig.align="left"}
 knitr::include_graphics("trump.png")
 ```
 .left.small[Source: [Ransom, 2019](https://www.nytimes.com/2019/06/18/nyregion/central-park-five-trump.html)]
@@ -417,7 +417,6 @@ class: middle
 
 - CJ policy often falls along a spectrum of two predominate viewpoints (CC vs. DP)
 
---
 
 <br >
 > "The criminal justice system is not primarily about crime control. It is about maintaining a certain social order"
