@@ -1,0 +1,178 @@
+---
+title: "Evidence-Based Crime Policy"
+subtitle: "CJ 4310: Special Problems in the Criminal Justice System"
+author: "Seth Watts, PhD <br /> <br />  Department of Criminal Justice & Criminology"
+#institute: Department of Criminal Justice & Criminology
+output:
+  xaringan::moon_reader:
+    css: ["default", "txst-xaringan-style.css"]
+    lib_dir: libs
+    self-contained: true
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+class: middle
+
+## Overview
+
+1. What is Evidence-Based Policy (EBP)?
+
+1. Why is EBP Important?
+
+1. Examples of EBP
+
+---
+class: center, middle, inverse
+## What is EBP?
+
+> “An evidence-based approach requires that the results of rigorous evaluation be rationally integrated into decisions about interventions by policymakers and practitioners alike.” 
+
+.right[Petrosino, 2000: p. 635]
+
+???
+- rigorous evidence should inform decisions on what policies to implement
+  - this typically means we know that intervention x has a fairly high degree of effectiveness due to the a) quantity of tests and b) quality of tests
+---
+
+## What is EBP?
+
+```{r, echo=FALSE, out.width="65%", fig.align="center"}
+knitr::include_graphics("ebp-process.png")
+```
+.center.small[Source: [Turner, 2013](https://www.urban.org/urban-wire/it-takes-portfolio-tools-make-evidence-based-policy)]
+
+---
+
+## Why is this important?
+
+- Taxpayer dollars tend to fund governmental policies
+
+- Local, state, and federal CJ agencies should implement policies that *work*
+
+- Anecdotal evidence and personal opinions influencing policy can be at best ineffective and a waste of resources or at worst, harmful
+  - This is not to say that EBPs can't have harmful effects - they can and it is vital to ensure they are minimized
+
+<br>
+
+> “we are all entitled to our own opinions, but not to our own facts.” 
+
+.right[Sherman, 1998: p. 4]
+
+???
+- using finite resources to fund policies that *work*
+  - taxpayer dollars ought to not be wasted on ineffective policies
+
+---
+
+## Three Keys to Causal Interpretation
+
+1. Correlation
+  - Policy X and outcome Y must be correlated for X to causally impact Y
+  - You often hear "correlation does not equal causation" and it is true! But correlation is a pre-requisite for a causal relationship
+
+1. Temporal ordering
+  - Policy X ***MUST*** come before any observed change in outcome Y
+
+1. Absence of spuriousness
+  - No other potential confounders (e.g., other variables that are driving the change in outcome Y)
+
+<br>
+
+.right[John Stuart Mill, *Methods of Induction*]
+---
+
+## The Maryland Scale 
+
+|**Method** | **Maryland Scale**  |
+|-------------------------|---------------------------|
+|Randomization            |Level 5 (Gold Standard)    |
+|Multiple units           |Level 4                    |
+|Control                  |Level 3                    |
+|Before-After             |Level 2                    |
+|Cross sectional; No Randomization  |Level 1              |
+
+.center[Adapted from Sherman et al. (1997)]
+
+- Moving *up* the table improves the researchers ability to say with a level of confidence that the treatment (or intervention) ***caused*** the observed difference between groups
+
+- Studies that are at the bottom of the table suffer from confounding, meaning that it may not be the intervention that is responsible for the difference (e.g., timing, socioeconomic status, gender, race, region)
+
+???
+- The ultimate questions are: what groups are we comparing? Are they equivalent?
+- Randomization makes groups equivalent because it is *random* (race, gender, socioeconomic status, etc. will be the same between groups)
+
+---
+
+## Evidence-Based Policing Matrix
+
+```{r, echo=FALSE, out.width="85%", fig.align="center"}
+knitr::include_graphics("ebp-matrix.png")
+```
+.center.small[Source: [GMU CEBCP](https://cebcp.org/evidence-based-policing/the-matrix/)]
+
+- The above matrix is a good resource for identifying sound and not-so-sound policing strategies
+
+- Policing strategies are stratified by unit of analysis (e.g., individual, neighborhood), level of focus (e.g. focused or general), and proactivity-level (e.g., highly proactive, proactive, reactive)
+
+---
+class: center, middle, inverse
+# Examples
+
+---
+
+--
+
+.pull-left[
+## EBP
+**Policy:** Hot Spots Policing
+
+**Description:** Crime is hyper-concentrated geographically. Thus, sending police officers to areas that generate high levels of crime may reduce criminal activity via a deterrent effect. 
+
+**Evidence:** There are multiple randomized control trials (Gold Standard evidence) suggesting that hot spots policing works to reduce crimes. In a meta-analysis, Braga et al. (2019) found that hot spots policing reduces violent crime, property crime, disorder offenses, and drug crimes. There were larger effects for disorder offenses and drug crimes.
+]
+
+--
+
+.pull-right[
+## Non-EBP
+**Policy:** Gun Violence Outreach Mediation
+
+**Description:** Some have argued that having street outreach workers - generally individuals who were formally involved in gun violence - should help mediate conflicts between individuals and groups who may engage in violence. 
+
+**Evidence:** The evidence on this intervention is new and mixed. Notably, in this context it is effectively impossible to achieve randomization which means the best evidence available research will be level 3 and 4 studies on the Maryland Scale. Thus, we do not know enough at this time and the evidence that is produced is susceptible to confounding. 
+]
+
+---
+
+## Moving forward
+
+- As we move through this course be sure to pay close attention to how researchers discuss certain policies in terms of their research base
+
+- We will be covering many different crime control policies; Some with strong, mixed, and weak evidence
+
+- While evidence for a policy may be strong, it is important to recognize that there is not an ironclad solution that works 100% of the time for everyone
+
+<br>
+
+> "There are no solutions. There are only trade-offs."
+
+.right[Thomas Sowell, 1987]
+
+---
+class: middle
+
+## Key Takeways
+
+- Not all evidence is created equal
+
+- Higher levels of internal validity means increased confidence that policy X effects outcome Y
+
+- A policy's evidence base should be analyzed by looking at the quality (Maryland Scale) and quantity (e.g., Tests in multiple jurisdictions? Do most papers suggest effects?) of evidence
+
+
