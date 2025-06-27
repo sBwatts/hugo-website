@@ -8,15 +8,43 @@ output:
     css: ["default", "txst-xaringan-style.css"]
     lib_dir: libs
     self-contained: true
+    seal: false
     nature:
       highlightStyle: github
       highlightLines: true
       countIncrementalSlides: false
 ---
 
+class: center, middle
+background-image: url("tsu-logo.jpg")
+background-position: 50% 70%
+background-size: 40%
+
+# Evidence-Based Crime Policy
+## CJ 4310: Special Problems in the Criminal Justice System
+
+<br>
+<br>
+
+**Seth Watts, PhD**
+
+School of Criminal Justice & Criminology
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+September 1, 2025
+
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
+---
+
 class: middle
 
 ## Overview
@@ -162,7 +190,7 @@ class: center, middle, inverse
 
 > "There are no solutions. There are only trade-offs."
 
-.right[Thomas Sowell, 1987]
+.right[Thomas Sowell, *A Conflict of Visions: Ideological Origins of Political Struggles*]
 
 ---
 class: middle
