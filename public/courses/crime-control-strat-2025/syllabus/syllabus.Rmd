@@ -11,8 +11,8 @@ date: "Fall 2025"
 
 # coteaching: TRUE
 email: "sbwatts@txstate.edu"
-officehours: "Thurs 11-2 or by appt."
-office: "Zoom"
+officehours: "By appt. via Zoom"
+office: "Hines 108"
 
 web: "sethbwatts.com/courses"
 classroom: "Zoom"
@@ -51,15 +51,20 @@ library(kableExtra)
   - Access to reliable Internet, Canvas, and Microsoft Word/ some other word processing software.
 
 
-**Course Rationale**: This class will broadly be centered around crime control strategies. The primary focus will be on how the Criminal Justice System attempts to control criminal activity. We will also cover how the community, environment, labor market, and technological innovations can be utilized to control crime. 
+**Course Rationale**: This class will broadly cover crime control strategies. The primary focus will be on how the Criminal Justice System attempts to control criminal activity. Specifically, we will look at how police, courts, and corrections attempt to control crime. We will also cover how the community, environment, labor market, and technological innovations can be utilized to control crime. 
 
 **Course Objectives**:
 
-1. You'll learn this
+- Understand important contemporary issues and problems concerning crime and criminal justice.
 
-2. And also that
+- Be able to critically examine criminal justice policies and their evidence base.
 
-3. Perhaps some of this too.
+- Ability to discuss policies that are evidence-based.
+
+- Synthesize research materials and integrate what they have learned into undergraduate-level writing
+
+**Format of Class**: This class is entirely asynchronous online. Students are responsible for reading
+the text materials and other required materials.
 
 # Assignments and Evaluation
 
@@ -71,9 +76,9 @@ Below are the assignments and their points for the class:
 library(kableExtra)
 
 assignments <- data.frame(
-  Assignment = c("Discussion Questions (DQs)", "Paper Topic", "Paper Outline", "Final Paper", "Midterm Exam", "Final Exam", "Total"),
-  Points = c("6.25 per (x12) = 75", "50", "75", "100", "100", "100 ", "500"),
-  Percentage = c("15%", "10%", "15%", "20%", "20%", "20%", "100%")
+  Assignment = c("Discussion Questions (DQs)", "Discussion Boards", "Paper Topic", "Paper Outline", "Final Paper", "Midterm Exam", "Final Exam", "Total"),
+  Points = c("6.25 per (x12) = 75", "20 per (3x) = 60", "40", "75", "100", "125", "125 ", "600"),
+  Percentage = c("12.5%", "10%", "6.7%", "12.5%", "16.7%", "20.8%", "20.8%", "100%")
 )
 
 kable(assignments, format = "latex", booktabs = TRUE, escape = TRUE) %>%
@@ -81,23 +86,34 @@ kable(assignments, format = "latex", booktabs = TRUE, escape = TRUE) %>%
 
 
 ```
+
+*Discussion Boards*: There will be three total discussion boards throughout the course. You will be responsible for a discussion board post and peer response worth 10 points each. The initial post should be at least 200 words in length and adequately addresses each part of the given prompt. Second, there should be one classmate response post that should be at least 100 words in length and related to the substance of the classmate's post. These will be due Sunday by midnight.
+
 *Assigned Readings*: Unless otherwise specifically assigned, reading assignments are taken from the required
 resources specified in this syllabus. The reading assignments listed for each class are those readings that a
 student must complete before reviewing the corresponding module’s lecture or completing corresponding
 module assignments. Not all of the assigned readings will be discussed in lectures; however, all assigned
 readings may be covered on exams. See the course schedule for reading assignments.
 
-*Discussion Questions*: Each week you will submit a question to me via Canvas. This question should be directed towards the readings for that week. For example let the following questions guide you in coming up with your questions that you will submit: What caught your eye in the readings? What are you not understanding? Are you curious about a certain policy's mechanics? How might a certain policy be perceived?
+*Discussion Questions*: Each week you will submit a question to me via Canvas. This question should be directed towards the readings for that week. For example let the following questions guide you in coming up with your questions that you will submit: What caught your eye in the readings? What are you not understanding? Are you curious about a certain policy's mechanics? How might a certain policy be perceived? This should help you think critically about the content and in return, help you with your discussion boards and your writing assignments.
 
-*Paper Topic*: In preparation for the paper outline and final paper, you will submit a paper topic to me via Canvas. Ideally this will be a short and sweet one sentence paper topic but can be two or three sentences. You can look ahead in the course readings to generate a paper topic. It is entirely up to you but must be within the confounds of the course topics. If it is a related topic but not covered in the class, let me know and we can discuss. 
+*Paper Topic*: In preparation for the paper outline and final paper, you will submit a paper topic to me via Canvas. The paper topic should be a criminal justice policy or topical area that we cover in class. You will indicate whether you plan to write a policy paper or literature review (see below for details). Ideally this will be a short and sweet one sentence paper topic but it can be two or three sentences. You can look ahead in the course readings to generate a paper topic. It is entirely up to you but must be within the confounds of the course topics. If it is a related topic but not covered in the class, let me know and we can discuss. 
 
 *Paper Outline*: To help facilitate the development of your final paper, you will submit a paper outline via Canvas. This outline should be no more than three pages. It should include section and subsection headers, potential evidence to bring in, citations, and arguments to be made. It should serve as the scaffolding for your final paper. This is not a set in stone outline, if you deviate, you will not be penalized. However, if you change your paper topic after the outline is submitted, please notify me. Be sure to include a reference page (not included in the approximately 3 page limit). 
 
-*Final Paper*: The final paper should be approximately 8-10 pages, with 5 different references from the class readings and 5 external references that were not covered in class. You should be using APA formatting for all of your writing assignments.^[See the following link for a guide to APA formatting: https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html] Be sure to include a reference page (not included in the 8-10 page requirement). 
+*Final Paper*: You have two options for your final paper: a **Policy paper** or **Literature review**.
 
-*Midterm Exam*:
+The final paper should be approximately 8-10 pages (double spaced), with 5 different references from the class readings and 5 external references that were not covered in class. You should be using APA formatting for all of your writing assignments.^[See the following link for a guide to APA formatting: https://owl.purdue.edu/owl/research_and_citation/apa_style/apa_formatting_and_style_guide/index.html] Be sure to include a reference page (not included in the 8-10 page requirement). 
 
-*Final Exam*:
+  - *Policy paper*: This is narrowly tailored to a practitioner audience such as the local municipal police department, city counsel, local community groups, etc. You should identify a problem (issue covered in this course), and provide a well structured paper that highlights an evidence-based policy that will address the issue you identified. You should be sure to provide information related to the issue and evidence for the policy you are suggesting.
+    - EX: Police departments do not have the capabilities to review body-worn camera footage (issue). Artificial intelligence can review 100% of the footage produced in real time (solution). The early evidence on the integration of AI into body-camera review suggests that it meets the goal of reviewing 100% of the footage produced and can provide useful information to line-level officers (evidence; be sure to include both strengths and weaknesses). You will, of course, expand on these and add other sections such as concerns related to the policy and conclusions.
+  
+  - *Literature review*: Broad in scope and intended for an academic audience. This should be a paper that synthesizes the research of your chosen topic, providing the background, examples, strengths and weaknesses, and a conclusion on the efficacy of your chosen topic.
+    - EX: Police departments do not have the capabilities to review body-worn camera footage (issue). Why is this an issue? Body-cameras are a tool for transparency and accountability. If footage is not reviewed then this hinders the achievement of these goals (background). Examples of how much footage goes unreviewed. You then dive into the research and synthesize the evidence for the particular policy - strengths and weaknesses. Identify the concerns (e.g., civil rights and privacy concerns with AI). Identify areas of consensus and disagreement. Conclude with a summary of what we know and don't know.
+
+*Midterm Exam*: Your midterm exam will consist of 50 multiple choice questions. The midterm will cover the first 7 weeks of content (e.g., politics and policy, evidence-based policy, police, courts, corrections). These will be online in Canvas and will be due Friday night by midnight. Once the exam is accessed you will have 1 hour and 30 minutes to complete the exam.
+
+*Final Exam*: Your final exam will consist of 50 multiple choice questions. The final exam will cover the final 6 weeks of content (e.g., community-based approaches, technology, employment, "what works"). These will be online in Canvas and will be due Friday night by midnight. Once the exam is accessed you will have 1 hour and 30 minutes to complete the exam.
 
 # Course Policies
 
@@ -185,12 +201,12 @@ http://www.library.txstate.edu/about/departments/circ/laptop.
 ```{r, echo=FALSE}
 schedule <- data.frame(
   Week = 1:15,
-  Date = c("Aug 25-31", "Sep 1-7", "Sep 8-14", "Sep 15-21", "Sep 22-28", "Sep 29-Oct 5", "Oct 6-12", "Oct 13-19", "Oct 20-26", "Oct 27-Nov 2", "Nov 3-9", "Nov 10-16", "Nov 17-23", "Nov 24-Dec 1", "Dec 2-9"),
-  Topic = c("Politics and Policy", "Criminal Justice Policy", "Police I: Crime Control Agents", "Police II: Hot Spots & Problem Oriented Policing", "Police III: Focused Deterrence", "Courts, Prosecutors, & Sentencing", "Corrections: Prisons & Community Supervision",
-            "Midterm", "Community-based I: CPTED", "Community-based II: Public Health Approach", "Technology & Surveilance", "Employment and Crime",
-            "Evaluating What Works I", "Evaluating What Works II", "Final"),
-  Readings = c("Syllabus; Textbook: Ch. 1, 2, & 3", "Welsh & Farrington (2011)", "Sherman (2011); Chalfin (2022)", "Braga et al. (2019), Hinkle et al. (2020); Reducing Crime Podcast Ep. #66 (David Weisburd)", "Braga et al. (2018); Reducing Crime Podcast Ep. #18 (Thomas Abt)", "Textbook: Ch. 7", "Textbook: Ch. 11, 12, & 13", "", "Welsh & Farrington (2008); Garvin, Cannuscio, & Branas (2013)", "Butts et al. (2015) Cure Violence", "Textbook: Ch. 15; Connealy et al. (2024), Piza et al. (2024)", "Heller (2014), Apel & Horney (2017)", "Sherman et al. (1997)", "TBD", "" ),  # Add readings
-  Assignments = c("", "DQ 1", "DQ 2", "DQ 3", "DQ 4; Paper Topic due", "DQ 5", "DQ 6", "Midterm Exam", "DQ 7; Paper Outline due", "DQ 8", "DQ 9", "DQ 10", "DQ 11", "DQ 12; Final Paper due", "Final Exam"))
+  Date = c("Aug 25-31", "Sep 1-7", "Sep 8-14", "Sep 15-21", "Sep 22-28", "Sep 29-Oct 5", "Oct 6-12", "Oct 13-19", "Oct 20-26", "Oct 27-Nov 2", "Nov 3-9", "Nov 10-16", "Nov 17-23", "Nov 24-Nov 30", "Dec 1-7"),
+  Topic = c("Politics and Criminal Justice Policy", "Evidence-Based Policy", "Police I: Crime Control Agents", "Police II: Hot Spots & Problem Oriented Policing", "Police III: Focused Deterrence", "Courts, Prosecutors, & Sentencing", "Corrections: Prisons & Community Supervision",
+            "Midterm Exam", "Community-based I: CPTED", "Community-based II: Public Health Approach", "Technology & Surveilance", "Employment and Crime",
+            "Evaluating What Works I", "Evaluating What Works II", "Final Exam"),
+  Readings = c("Syllabus; Textbook: Ch. 1, 2, & 3", "Welsh & Farrington (2011)", "Kelling & Moore (1988); Chalfin (2022)", "Braga et al. (2019); Hinkle et al. (2020); Reducing Crime Podcast Ep. #66 (David Weisburd)", "Braga et al. (2018); Reducing Crime Podcast Ep. #18 (Thomas Abt)", "Textbook: Ch. 7", "Textbook: Ch. 11, 12, & 13", "", "Welsh & Farrington (2008); Garvin, Cannuscio, & Branas (2013)", "Butts et al. (2015) Cure Violence", "Textbook: Ch. 15; Connealy et al. (2024), Piza et al. (2024)", "Heller (2014), Apel & Horney (2017)", "Sherman et al. (1997); Reducing Crime Podcast Ep. #17 (Lawrence Sherman)", "TBD", "" ),  # Add readings
+  Assignments = c("", "DQ 1", "DQ 2", "DQ 3", "DQ 4; Discussion Board #1", "DQ 5; Paper Topic due", "DQ 6; Discussion Board #2", "Midterm Exam", "DQ 7; Paper Outline due", "DQ 8", "DQ 9", "DQ 10; Discussion Board #3", "DQ 11", "DQ 12; Final Paper due", "Final Exam"))
 
 kable(schedule, format = "latex", booktabs = TRUE, longtable = FALSE, escape = TRUE) %>%
   kable_styling(latex_options = c("striped", "hold_position", "scale_down"), full_width = FALSE) %>%

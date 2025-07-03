@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.24)  24 JUN 2025 12:51
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.24)  3 JUL 2025 12:06
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -677,26 +677,34 @@ LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 18
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 )
 
-LaTeX Warning: `!h' float specifier changed to `!ht'.
-
-
-
 [1
 
 ]
 
 [2]
-Overfull \hbox (15.49495pt too wide) in paragraph at lines 311--320
-\T1/ppl/m/n/10.95 State Uni-ver-sity Honor Code ([][]$http : / / www . txstate . edu / honorcodecouncil / Academic-[]Integrity . html$[][])
+Overfull \hbox (3.54236pt too wide) in paragraph at lines 318--327
+[]\T1/ppl/m/n/10.95 EX: Po-lice de-part-ments do not have the ca-pa-bil-i-ties to re-view body-worn cam-era footage
+ []
+
+
+Overfull \hbox (3.54236pt too wide) in paragraph at lines 337--347
+[]\T1/ppl/m/n/10.95 EX: Po-lice de-part-ments do not have the ca-pa-bil-i-ties to re-view body-worn cam-era footage
  []
 
 
 
 [3]
+Overfull \hbox (15.49495pt too wide) in paragraph at lines 393--402
+\T1/ppl/m/n/10.95 State Uni-ver-sity Honor Code ([][]$http : / / www . txstate . edu / honorcodecouncil / Academic-[]Integrity . html$[][])
+ []
+
+
 
 [4]
 
-[5] 
+[5]
+
+[6] 
 enddocument/afterlastpage (AED): lastpage setting LastPage.
 (./syllabus.aux)
  ***********
@@ -709,10 +717,10 @@ Package rerunfilecheck Info: File `syllabus.out' has not changed.
 Here is how much of TeX's memory you used:
  22314 strings out of 470482
  415888 string characters out of 5490176
- 804560 words of memory out of 5000000
+ 805560 words of memory out of 5000000
  50147 multiletter control sequences out of 15000+600000
  652026 words of font info for 92 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  102i,12n,107p,1197b,417s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on syllabus.pdf (5 pages).
+Output written on syllabus.pdf (6 pages).

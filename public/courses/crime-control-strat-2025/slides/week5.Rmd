@@ -1,0 +1,67 @@
+---
+title: "Police III"
+subtitle: "CJ 4310: Special Problems in the Criminal Justice System"
+author: "Seth Watts, PhD <br /> <br />  Department of Criminal Justice & Criminology"
+#institute: Department of Criminal Justice & Criminology
+output:
+  xaringan::moon_reader:
+    css: ["default", "txst-xaringan-style.css"]
+    lib_dir: libs
+    self-contained: true
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+class: center, middle
+background-image: url("tsu-logo.jpg")
+background-position: 50% 70%
+background-size: 40%
+
+# Police II: Focused Deterrence
+## CJ 4310: Special Problems in the Criminal Justice System
+
+<br>
+<br>
+
+**Seth Watts, PhD**
+
+School of Criminal Justice & Criminology
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+September 22, 2025
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+---
+class: middle
+
+## Overview
+
+1. What is Focused Deterrence
+
+1. Examples of Focused Deterrence
+
+1. The Evidence for Focused Deterrence
+
+1. Critiques
+
+---
+class: center, middle, inverse
+
+# What is Focused Deterrence?
+
+---
+## Focused Deterrence
+
+- Boston Ceasefire intervention

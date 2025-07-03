@@ -20,7 +20,7 @@ background-image: url("tsu-logo.jpg")
 background-position: 50% 70%
 background-size: 40%
 
-# Politics & Policy
+# Politics, The Criminal Justice System, & Policy
 ## CJ 4310: Special Problems in the Criminal Justice System
 
 <br>
@@ -49,28 +49,15 @@ class: middle
 
 ## Overview
 
-1. Introduction
-
 1. Know the syllabus
 
 1. What we will cover in this course
 
 1. Politics and Policy
 
----
+1. Crime Control vs. Due Process
 
-
-## Who am I?
-
-- Born and raised just north of Cincinnati, OH (Trenton, OH)
-
-- BA in Psychology from Bowling Green State University
-
-- MS and PhD from Arizona State University
-
-- My research interests include policing, public health, and technology
-
-- Outside of work I enjoy making homemade pizza, grilling, and watching and chatting about anything sports related
+1. Criminal Justice Policy
 
 ---
 
@@ -197,7 +184,7 @@ Mays & Ruddell (2019) Ch. 1
 class: center, middle, inverse
 ## What is Public Policy?
 
-> “At its core, policy is a course of action or a direction established by one of the three branches of government—executive, legislative, or judicial— or by the permanent bureaucracy housed in administrative agencies.”
+> At its core, policy is a course of action or a direction established by one of the three branches of government—executive, legislative, or judicial— or by the permanent bureaucracy housed in administrative agencies.
 
 .right[Mays & Ruddell, 2019: p. 5]
 
@@ -345,7 +332,6 @@ Mays & Ruddell (2019) Ch. 3
 ## Understanding Criminal Justice Policy
 
 - Oftentimes policies are irrational, solely influenced by political forces, or not effective
-  - In some cases, it's due to all three!
 
 - Why is this the case? Why can't rational policy be the rule and not the exception?
 
@@ -417,9 +403,10 @@ class: middle
 
 - CJ policy often falls along a spectrum of two predominate viewpoints (CC vs. DP)
 
+- There are a variety of barriers to implementing rational policy
 
 <br >
-> "The criminal justice system is not primarily about crime control. It is about maintaining a certain social order"
+> The criminal justice system is not primarily about crime control. It is about maintaining a certain social order.
 
 .right[Herbert Packer, 1968]
 
