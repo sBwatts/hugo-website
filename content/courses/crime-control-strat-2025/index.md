@@ -2,8 +2,8 @@
 title: "CJ 4310"
 date: 2025-08
 author: "Seth Watts"
-description: "TBD." 
-showToc: true
+description: "Special problems in the Criminal Justice System " 
+showToc: false
 ---
 
 ## Introduction
