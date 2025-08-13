@@ -115,3 +115,46 @@ div.remark-slide-container .fullscale p {
 .bigger {
   font-size: 1.5em;
 }
+
+.wrap-right {
+  float: right;
+  margin: 0 0 15px 15px; /* spacing around the image */
+}
+
+/* Reusable quote card style for Xaringan + Tachyons */
+.quote-box {
+  background-color: #fffceb; /* washed yellow */
+  border: 0.25rem solid  #3e1f1f; /* dark maroon */
+  border-radius: 0.5rem; /* rounded corners */
+  box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.2);
+  padding: 1rem;
+  margin-top: 2rem;
+}
+
+/* Footnote attribution style */
+.quote-attrib {
+  font-size: 0.875rem; /* similar to Tachyons f6 */
+  color: #777;
+  text-align: right;
+  margin-top: 1rem;
+}
+
+/* inverse slide*/
+.quote-box-inv {
+  background-color: ; /* washed yellow */
+  color: white;
+  border: 0.25rem solid  #3e1f1f; /* dark maroon */
+  border-radius: 0.5rem; /* rounded corners */
+  box-shadow: 0 0.5rem 1rem rgba(0,0,0,0.2);
+  padding: 1rem;
+  margin-top: 2rem;
+}
+
+/* Footnote attribution style */
+.quote-attrib-inv {
+  font-size: 0.875rem; /* similar to Tachyons f6 */
+  color: #777;
+  text-align: right;
+  margin-top: 1rem;
+}
+

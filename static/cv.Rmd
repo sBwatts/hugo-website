@@ -50,7 +50,7 @@ Assistant Professor | Texas State University \hfill 2025-
 
 ## Academic Affiliations
 
-Research Fellow, [Texas Crime and Justice Center (TCJC)](https://www.cj.txst.edu/research/centers-labs/tcjc.html) | Texas State University \hfill 2025-
+Research Affiliate, [Texas Crime and Justice Center (TCJC)](https://www.cj.txst.edu/research/centers-labs/tcjc.html) | Texas State University \hfill 2025-
 
 ## Previous Positions
 
@@ -153,30 +153,37 @@ White D. M., Perrone, D., Malm, A., & Watts, S. (September 16, 2021). The Tempe 
 
 ## Conference Presentations^[Presented by coauthor ($P$)]
 
-Watts, S., White, M. D., Malm, A. (April, 2025). Perceptions, Use, and Impact of Truleo in Three Arizona Law Enforcement Agencies. American Society of Evidence-Based Policing.
+Watts, S., White, M. D., & Malm, A. (April, 2025). Perceptions, Use, and Impact of Truleo in Three Arizona Law Enforcement Agencies. American Society of Evidence-Based Policing.
 
-Watts, S., White, M. D., Malm, A. (November, 2024). How do Officers Perceive AI-based BWC Review Technology? Evidence from 6 Months of Survey Data. American Society of Criminology. *Sponsored by the division of Policing*.
+Abrica, C., White, M. D., Malm, A., & Watts, S. (February, 2025). A process
+evaluation of AI-driven body-worn camera review: Assessing officer perceptions pre and
+post. *Western Society of Criminology conference*.$^P$
 
-White, M. D., Malm, A., Watts, S. (November, 2024). Automating Body-Worn Camera Footage Review Through AI:
+Watts, S., White, M. D., & Malm, A. (November, 2024). How do Officers Perceive AI-based BWC Review Technology? Evidence from 6 Months of Survey Data. American Society of Criminology. *Sponsored by the division of Policing*.
+
+White, M. D., Malm, A., & Watts, S. (November, 2024). Automating Body-Worn Camera Footage Review Through AI:
 Preliminary Findings from a Multi-Site Randomized Control Trial. American Society of Criminology. *Sponsored by the division of Experimental Criminology*.$^P$
 
-Watts, S., White, M. D. (November, 2024). Collaborative Post-Overdose Outreach Efforts to Engage Homeless Individuals. American Society of Criminology.
+Watts, S. & White, M. D. (November, 2024). Collaborative Post-Overdose Outreach Efforts to Engage Homeless Individuals. American Society of Criminology.
 
-White, M. D., Watts, S. (June, 2024). Exploring the Drivers of Resistance to Police-Led Naloxone Programs. American Society of Evidence-Based Policing. 
+White, M. D. & Watts, S. (June, 2024). Exploring the Drivers of Resistance to Police-Led Naloxone Programs. American Society of Evidence-Based Policing. 
 
-Gutierrez, S., Mathis, S., Sanuth, A., Watts, S., Wallace, D. (February, 2024). Is Law-Violating Driving Behavior Race Specific? Mapping Rates of At-Fault Traffic Accidents by Race. Western Society of Criminology.$^P$
+Gutierrez, S., Mathis, S., Sanuth, A., Watts, S., & Wallace, D. (February, 2024). Is Law-Violating Driving Behavior Race Specific? Mapping Rates of At-Fault Traffic Accidents by Race. Western Society of Criminology.$^P$
 
-Watts, S., White, M. D., Malm, A., Perrone, D. (November, 2023). The Durability of Police Officers’ Attitudes about Naloxone and Opioid Overdose Response: ‘Narcan Cops’ Revisited. American Society of Criminology.
+Watts, S., White, M. D., Malm, A., & Perrone, D. (November, 2023). The Durability of Police Officers’ Attitudes about Naloxone and Opioid Overdose Response: ‘Narcan Cops’ Revisited. American Society of Criminology.
 
-Watts, S., White, M. D., Malm, A., Perrone, D. (November, 2022). The Tempe First Responder Opioid Recovery Project. American Society of Criminology.
+Watts, S., White, M. D., Malm, A., & Perrone, D. (November, 2022). The Tempe First Responder Opioid Recovery Project. American Society of Criminology.
 
-White, M. D., Watts, S., Orosco, C., Malm, A., Perrone, D (March, 2022). Myth busting Police-Led Naloxone Programs with Body-Worn Camera Footage. Academy of Criminal Justice Sciences. 
+White, M. D., Watts, S., Orosco, C., Malm, A., & Perrone, D (March, 2022). Myth busting Police-Led Naloxone Programs with Body-Worn Camera Footage. Academy of Criminal Justice Sciences. 
 
-White, M. D., Orosco, C. A., Watts, S., Malm, A., Perrone, D (2020). The Tempe First Responder Opioid Recovery Project. Southern Criminal Justice Association.$^P$
+White, M. D., Orosco, C. A., Watts, S., Malm, A., & Perrone, D (2020). The Tempe First Responder Opioid Recovery Project. Southern Criminal Justice Association.$^P$
 
 ## Other Presentations
 
-White, M. D., Watts, S. (January, 2024). Making the Invisible Visible: Body-Worn Cameras as a Tool for Uncovering Bad (and Good) Policing. ASU CCJ Colloquium Series. 
+White, M. D., Watts, S., & Malm, A. (March, 2025). Perceptions, use, and impact of
+Truleo in three Arizona law enforcement agencies. Truleo’s AI Innovation Day.$^P$
+
+White, M. D. & Watts, S. (January, 2024). Making the Invisible Visible: Body-Worn Cameras as a Tool for Uncovering Bad (and Good) Policing. ASU CCJ Colloquium Series. 
 
 # Teaching Experience
 

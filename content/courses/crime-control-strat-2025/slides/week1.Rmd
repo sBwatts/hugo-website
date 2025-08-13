@@ -17,7 +17,7 @@ output:
 
 class: center, middle
 background-image: url("tsu-logo.jpg")
-background-position: 50% 70%
+background-position: 49% 68%
 background-size: 40%
 
 # Politics, The Criminal Justice System, & Policy
@@ -42,12 +42,14 @@ August 25, 2025
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+xaringanExtra::use_tachyons()
+xaringanExtra::use_panelset()
 ```
 ---
 
 class: middle
 
-## Overview
+# Overview
 
 1. Know the syllabus
 
@@ -61,7 +63,7 @@ class: middle
 
 ---
 
-## Important Syllabus Information
+# Important Syllabus Information
 
 - There will be no syllabus quiz but please read it over
 
@@ -80,7 +82,7 @@ class: center, middle, inverse
 
 ---
 
-## The Criminal Justice System (CJS)
+# The Criminal Justice System (CJS)
 
 ```{r, echo=FALSE, out.width="70%", fig.align="center"}
 knitr::include_graphics("crime-trends.png")
@@ -102,7 +104,7 @@ knitr::include_graphics("crime-trends.png")
 
 ---
 
-## Other Interventions
+# Other Interventions
 
 ```{r, echo=FALSE, out.width="70%", fig.align="center"}
 knitr::include_graphics("crime-trends.png")
@@ -133,7 +135,7 @@ Mays & Ruddell (2019) Ch. 1
 
 ---
 
-## Why Start with Politics and Policy?
+# Why Start with Politics and Policy?
 
 - The CJS does not exist in a vacuum
   - It exists within a larger structure of legal, political, and social influences
@@ -145,9 +147,9 @@ Mays & Ruddell (2019) Ch. 1
 ???
 
 ---
-## What are the Sources of Law?
+# What are the Sources of Law?
 
-<div style="position: absolute; top: 2em; right: 1em; width: 400px;">
+<div style="position: absolute; top: 6em; right: 1em; width: 400px;">
 <img src="bill.png" style="width: 75%;" />
 
 </div>
@@ -184,13 +186,15 @@ Mays & Ruddell (2019) Ch. 1
 class: center, middle, inverse
 ## What is Public Policy?
 
-> At its core, policy is a course of action or a direction established by one of the three branches of government—executive, legislative, or judicial— or by the permanent bureaucracy housed in administrative agencies.
+.bg-maroon.white.ba.bw2.br3.shadow-5.ph4.mt3[
+"At its core, policy is a course of action or a direction established by one of the three branches of government—executive, legislative, or judicial— or by the permanent bureaucracy housed in administrative agencies."
 
 .right[Mays & Ruddell, 2019: p. 5]
+]
 
 ---
 
-## What is Public Policy?
+# What is Public Policy?
 
 --
 
@@ -217,13 +221,13 @@ class: center, middle, inverse
 - substantive = issues arising from the public
 ---
 
-## Developing Policy in the CJS
+# Developing Policy in the CJS
 
 Stages of policy development in the CJS:
 
-<div style="position: absolute; top: 7em; right: 15em; height: 300px; width: 350px;">
-<img src="policy-process.png" style="width: 100%;" />
-  <p style="font-size: 0.75em; text-align: center; margin-top: 0.2em;">Generated using ChatGPT</p>
+<div style="position: absolute; top: 10em; right: 15em; height: 275px; width: 350px;">
+<img src="policy-process.png" style="width: 80%;" />
+  <p style="font-size: 0.75em; text-align: center; margin-top: 0.2em;">Generated with ChatGPT</p>
 </div>
 
 </div>
@@ -248,7 +252,7 @@ Stages of policy development in the CJS:
   - Do we want to keep this approach?
 ---
 
-## Example of Policymaking
+# Example of Policymaking
 
 | **Stage**     | **Example**                                                                                   |
 |------------------|-----------------------------------------------------------------------------------------------|
@@ -280,7 +284,7 @@ knitr::include_graphics("cc-dp.png")
 - A CJS likely embodies both viewpoints; It's not an either or scenario
 ---
 
-## Comparing the Models
+# Comparing the Models
 
 |**Feature**      |**Crime Control Model**    |**Due Process Model**    |
 |-----------------|---------------------------|-------------------------|
@@ -301,10 +305,10 @@ knitr::include_graphics("cc-dp.png")
 - note the presumption of guilt is not intended to mean that the defendant will receive no trial if they wish, it is a matter of factual guilt (e.g., it is more likely than not that this individual did commit crime x)
 ---
 
-## .center[Critiquing the Two Models]
+# .center[Critiquing the Two Models]
 
 .pull-left[
-### .center[Crime Control Model]
+## .center[Crime Control Model]
 - Elevated false positive risk (e.g., wrongful convictions)
 
 - Potential loss of legitimacy
@@ -313,7 +317,7 @@ knitr::include_graphics("cc-dp.png")
 ]
 
 .pull-right[
-### .center[Due Process Model]
+## .center[Due Process Model]
 - Inefficient
 
 - Resource intensive
@@ -329,11 +333,14 @@ Mays & Ruddell (2019) Ch. 3
 
 ---
 
-## Understanding Criminal Justice Policy
+# Understanding Criminal Justice Policy
 
-- Oftentimes policies are irrational, solely influenced by political forces, or not effective
+- Oftentimes policies are irrational, influenced by political forces, or not effective
 
 - Why is this the case? Why can't rational policy be the rule and not the exception?
+
+
+--
 
 - Lets look at why this may be the case...
 
@@ -344,9 +351,9 @@ Mays & Ruddell (2019) Ch. 3
 
 ---
 
-## Challenges to Having Rational Policies
+# Challenges to Having Rational Policies
 
-According to Mears (2010) here are some reasons that rational policy takes the backseat:
+According to Mears (2010), here are some reasons that rational policy takes the backseat:
 
 .pull-left[
 - The politicization of crime
@@ -393,9 +400,7 @@ knitr::include_graphics("trump.png")
 - much research is not adequately assessing the causal effect of said policy. Most is correlational and/or descriptive.
 
 ---
-class: middle
-
-## Key Takeaways
+# Key Takeaways
 
 - Political processes *do* and *always will* affect the CJS and policy
 
@@ -405,9 +410,11 @@ class: middle
 
 - There are a variety of barriers to implementing rational policy
 
-<br >
-> The criminal justice system is not primarily about crime control. It is about maintaining a certain social order.
+<br>
+
+.bg-washed-yellow.b--dark-maroon.ba.bw2.br3.shadow-5.ph4.mt3[
+"The criminal justice system is not primarily about crime control. It is about maintaining a certain social order."
 
 .right[Herbert Packer, 1968]
-
+]
 

@@ -17,7 +17,7 @@ output:
 
 class: center, middle
 background-image: url("tsu-logo.jpg")
-background-position: 50% 70%
+background-position: 49% 68%
 background-size: 40%
 
 # Evidence-Based Crime Policy
@@ -42,12 +42,14 @@ September 1, 2025
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+xaringanExtra::use_tachyons()
+xaringanExtra::use_panelset()
 ```
 ---
 
 class: middle
 
-## Overview
+# Overview
 
 1. What is Evidence-Based Policy (EBP)?
 
@@ -59,16 +61,18 @@ class: middle
 class: center, middle, inverse
 ## What is EBP?
 
-> An evidence-based approach requires that the results of rigorous evaluation be rationally integrated into decisions about interventions by policymakers and practitioners alike.
+.quote-box-inv[
+"An evidence-based approach requires that the results of rigorous evaluation be rationally integrated into decisions about interventions by policymakers and practitioners alike."
 
-.right[Petrosino, 2000: p. 635]
+.quote-attrib-inv.right[Petrosino, 2000: p. 635]
+]
 
 ???
 - rigorous evidence should inform decisions on what policies to implement
   - this typically means we know that intervention x has a fairly high degree of effectiveness due to the a) quantity of tests and b) quality of tests
 ---
 
-## What is EBP?
+# What is EBP?
 
 ```{r, echo=FALSE, out.width="65%", fig.align="center"}
 knitr::include_graphics("ebp-process.png")
@@ -77,7 +81,7 @@ knitr::include_graphics("ebp-process.png")
 
 ---
 
-## Why is this important?
+# Why is this important?
 
 - Taxpayer dollars tend to fund governmental policies
 
@@ -87,10 +91,11 @@ knitr::include_graphics("ebp-process.png")
   - This is not to say that EBPs can't have harmful effects - they can and it is vital to ensure they are minimized
 
 <br>
+.quote-box[
+"we are all entitled to our own opinions, but not to our own facts."
 
-> we are all entitled to our own opinions, but not to our own facts. 
-
-.right[Sherman, 1998: p. 4]
+.quote-attrib.right[Sherman, 1998: p. 4]
+]
 
 ???
 - using finite resources to fund policies that *work*
@@ -98,7 +103,7 @@ knitr::include_graphics("ebp-process.png")
 
 ---
 
-## Three Keys to Causal Interpretation
+# Three Keys to Causal Interpretation
 
 1. Correlation
   - Policy X and outcome Y must be correlated for X to causally impact Y
@@ -112,10 +117,10 @@ knitr::include_graphics("ebp-process.png")
 
 <br>
 
-.right[John Stuart Mill, *Methods of Induction*]
+.quote-attrib.right[John Stuart Mill, *Methods of Induction*]
 ---
 
-## The Maryland Scale 
+# The Maryland Scale 
 
 |**Method** | **Maryland Scale**  |
 |-------------------------|---------------------------|
@@ -137,7 +142,7 @@ knitr::include_graphics("ebp-process.png")
 
 ---
 
-## Evidence-Based Policing Matrix
+# Evidence-Based Policing Matrix
 
 ```{r, echo=FALSE, out.width="85%", fig.align="center"}
 knitr::include_graphics("ebp-matrix.png")
@@ -160,7 +165,7 @@ class: center, middle, inverse
 ## EBP
 **Policy:** Hot Spots Policing
 
-**Description:** Crime is hyper-concentrated geographically. Thus, sending police officers to areas that generate high levels of crime may reduce criminal activity via a deterrent effect. 
+**Description:** Crime is highly concentrated geographically. Thus, it may be effective to send officers to areas where crime is most prevalent.
 
 **Evidence:** There are multiple randomized control trials (Gold Standard evidence) suggesting that hot spots policing works to reduce crimes. In a meta-analysis, Braga et al. (2019) found that hot spots policing reduces violent crime, property crime, disorder offenses, and drug crimes. There were larger effects for disorder offenses and drug crimes.
 ]
@@ -169,16 +174,16 @@ class: center, middle, inverse
 
 .pull-right[
 ## Non-EBP
-**Policy:** Gun Violence Outreach Mediation
+**Policy:** Gun Buyback Programs
 
-**Description:** Some have argued that having street outreach workers - generally individuals who were formally involved in gun violence - should help mediate conflicts between individuals and groups who may engage in violence. 
+**Description:** To reduce gun violence, gun buyback programs offer cash in return for guns to, hopefully, reduce gun violence. These programs are often implemented locally.
 
-**Evidence:** The evidence on this intervention is new and mixed. Notably, in this context it is effectively impossible to achieve randomization which means the best evidence available will be level 3 and 4 studies on the Maryland Scale. Thus, we do not know enough at this time and the evidence that is produced is susceptible to confounding. 
+**Evidence:** The evidence on this intervention is limited and mixed at best. There are no rigorous evaluations of gun buyback programs. Moreover, it is frequently the case that few guns are turned in, making it unlikely to meaningfully impact gun violence rates. 
 ]
 
 ---
 
-## Moving forward
+# Moving forward
 
 - As we move through this course be sure to pay close attention to how researchers discuss certain policies in terms of their research base
 
@@ -188,13 +193,15 @@ class: center, middle, inverse
 
 <br>
 
-> There are no solutions. There are only trade-offs.
+.quote-box[
+"There are no solutions. There are only trade-offs."
 
-.right[Thomas Sowell, *A Conflict of Visions: Ideological Origins of Political Struggles*]
+.quote-attrib.right[Thomas Sowell, *A Conflict of Visions: Ideological Origins of Political Struggles*]
+]
 
 ---
 
-## Key Takeways
+# Key Takeways
 
 - Not all evidence is created equal
 
@@ -204,7 +211,7 @@ class: center, middle, inverse
 
 - The evidence-based movement is about rigorously testing interventions and providing evidence to policymakers to help inform their decisions
 
-```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.align='center', out.width="36%"}
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.align='center', out.width="30%"}
 library(memer)
 library(tidyverse)
 
@@ -219,5 +226,5 @@ magick::image_write(meme, "meme-ebp.png")
 knitr::include_graphics("meme-ebp.png")
 
 ```
-
+.center[[Generated with `memer` in R](https://github.com/sctyner/memer)]
 

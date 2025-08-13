@@ -17,7 +17,7 @@ output:
 
 class: center, middle
 background-image: url("tsu-logo.jpg")
-background-position: 50% 70%
+background-position: 49% 68%
 background-size: 40%
 
 # Police I: Crime Control Agents
@@ -42,10 +42,12 @@ September 8, 2025
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+xaringanExtra::use_tachyons()
+xaringanExtra::use_panelset()
 ```
 ---
 class: middle
-## Overview
+# Overview
 
 1. Brief Overview of Policing in America
 
@@ -61,7 +63,7 @@ Kelling and Moore (1988)
 
 ---
 
-## The Evolution of Policing 
+# The Evolution of Policing 
 
 - Political era
 
@@ -76,7 +78,7 @@ knitr::include_graphics("police-evolution.png")
 
 
 ---
-## Political Era
+# Political Era
 
 <div style="position: absolute; top: 6em; right: 1em; width: 400px;">
 <img src="police-boston.png" style="width: 80%; display: block; margin: 0 auto;" />
@@ -95,7 +97,7 @@ knitr::include_graphics("police-evolution.png")
 ]
 ---
 
-## Reform Era
+# Reform Era
 
 <div style="position: absolute; top: 6em; right: 1em; width: 400px;">
 <img src="vollmer.png" style="width: 80%; display: block; margin: 0 auto;" />
@@ -115,7 +117,7 @@ knitr::include_graphics("police-evolution.png")
 ]
 
 ---
-## Community Problem-Solving Era
+# Community Problem-Solving Era
 
 <div style="position: absolute; top: 6em; right: -1em; width: 450px;">
 <img src="comm-policing.png" style="width: 80%; display: block; margin: 0 auto;" />
@@ -140,7 +142,7 @@ class: center, middle, inverse
 # Can the Police Control Crime?
 
 ---
-## Kansas City Preventive Patrol Experiment
+# Kansas City Preventive Patrol Experiment
 
 - One of the first evaluated police experiments
 
@@ -153,9 +155,11 @@ class: center, middle, inverse
 <br>
 
 --
-> Through analysis of these data, using in many instances techniques in the forefront of methodological development, assessments from a multiplicity of measures and angles of view yielded a consistent evidence of the lack of effects of any consequence on crime… If any effects occurred that could be ascribed to the experiment, they were so subtle as to escape detection by any of the elaborate array of measurements that were used. 
+.quote-box[
+"Through analysis of these data, using in many instances techniques in the forefront of methodological development, assessments from a multiplicity of measures and angles of view yielded a consistent evidence of the lack of effects of any consequence on crime… If any effects occurred that could be ascribed to the experiment, they were so subtle as to escape detection by any of the elaborate array of measurements that were used."
 
-.right[[Kelling et al., 1974](https://blueravenintelligence.com/wp-content/uploads/blue-raven-intelligence-patrol-document-compressed.pdf)]
+.quote-attrib.right[[Kelling et al., 1974](https://blueravenintelligence.com/wp-content/uploads/blue-raven-intelligence-patrol-document-compressed.pdf)]
+]
 
 ???
 - control = standard level of policing; proactive = 2-3x the level of police visibility; reactive = no preventive patrol (only for CFS)
@@ -163,7 +167,7 @@ class: center, middle, inverse
 - measured citizen satisfaction surveys, business surveys, response times, arrests, traffic accidents
 
 ---
-## Newark Foot Patrol Experiment
+# Newark Foot Patrol Experiment
 
 - Three sets of analyses
   1. Perceptions of foot patrol officers and motor patrol officers
@@ -175,16 +179,22 @@ class: center, middle, inverse
 <br>
 --
 
-> the general impression is gained that while foot patrol may not have a significant effect on crime, it does affect citizens' fear of crime, the protective measures they take to avoid crime, and the perceived safety of their neighborhoods in consistent and systematic ways
+.quote-box[
+"the general impression is gained that while foot patrol may not have a significant effect on crime, it does affect citizens' fear of crime, the protective measures they take to avoid crime, and the perceived safety of their neighborhoods in consistent and systematic ways."
 
-.right[[Kelling et al., 1981: p. 6](https://www.policinginstitute.org/wp-content/uploads/2015/07/144273499-The-Newark-Foot-Patrol-Experiment.pdf)]
+.quote-attrib.right[[Kelling et al., 1981: p. 6](https://www.policinginstitute.org/wp-content/uploads/2015/07/144273499-The-Newark-Foot-Patrol-Experiment.pdf)]
+
+]
 
 ---
 class: center, middle, inverse
 
-> The police do not prevent crime. This is one of the best kept secrets of modern life. Experts know it, the police know it, but the public does not know it.
+.quote-box-inv[
+"The police do not prevent crime. This is one of the best kept secrets of modern life. Experts know it, the police know it, but the public does not know it."
 
-.right[David Bayley, 1994: *Police for the Future*]
+.quote-attrib-inv.right[David Bayley, 1994: *Police for the Future*]
+
+]
 
 ???
 - the 1960s-1990s was a time where many criminologists believed that police did not influence crime rates
@@ -195,7 +205,7 @@ class: center, middle
 ## How might the police reduce crime?
 
 ---
-## Prevention
+# Prevention
 
 - Police officer present $\rightarrow$ Increase in the likelihood of being caught = decreased likelihood of an offense occurring 
 
@@ -203,7 +213,7 @@ class: center, middle
 
 --
 
-## Apprehension
+# Apprehension
 
 - Arrest $\rightarrow$ Conviction $\rightarrow$ Jail/Prison = incapacitation effect
 
@@ -213,13 +223,13 @@ class: center, middle
 <br>
 
 --
-## Legitimacy
+# Legitimacy
 
 - Police perceived as legitimate authority $\rightarrow$ Citizens more likely to obey laws = less offending 
 
 
 ---
-## Policing & Public Safety
+# Policing & Public Safety
 
 .left[🟡 = mixed evidence and/or modest effects; 🟢 = strong evidence and/or moderate to large effects]
 
@@ -255,7 +265,7 @@ class: center, middle
 
 
 ---
-## Key takeaways
+# Key takeaways
 
 - The role of the police has evolved over time
 
@@ -264,6 +274,23 @@ class: center, middle
 - The last ~30 years of research suggests the police *can* prevent crime
 
 
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.align='center', out.width="35%"}
+library(memer)
+library(tidyverse)
+
+meme <- meme_get("ExpandingBrain") %>% 
+  meme_text_brain("police do not reduce crime", 
+                  "police may influence crime", 
+                  "Concentrating police in high crime areas reduces crime", 
+                  "Problem-solving by police in hot spots is evidence-based", 
+                  size = 16)
+# Save to file
+magick::image_write(meme, "meme-police.png")
+
+# Include cleanly
+knitr::include_graphics("meme-police.png")
+```
+.center[Generated with [`memer`](https://github.com/sctyner/memer) in R]
 
 
 
