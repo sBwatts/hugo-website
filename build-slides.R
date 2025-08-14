@@ -2,7 +2,7 @@ setwd("/Users/sethwatts/Dropbox (Personal)/MAIN/hugo-website")
 
 # Define paths
 src_dir <- "content/courses/crime-control-strat-2025/slides"
-dst_dir <- "static/courses/crime-control-strat-2025/slides"
+dst_dir <- "public/courses/crime-control-strat-2025/slides"
 
 # Ensure output dir exists
 dir.create(dst_dir, recursive = TRUE, showWarnings = FALSE)
@@ -33,7 +33,7 @@ file.copy(
 
 # Define paths
 src_dir <- "content/courses/crime-control-strat-2025/syllabus"
-dst_dir <- "static/courses/crime-control-strat-2025/syllabus"
+dst_dir <- "public/courses/crime-control-strat-2025/syllabus"
 
 # Ensure output dir exists
 dir.create(dst_dir, recursive = TRUE, showWarnings = FALSE)
