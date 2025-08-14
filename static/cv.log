@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.24)  30 JUL 2025 10:29
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025) (preloaded format=pdflatex 2025.6.24)  14 AUG 2025 09:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -749,17 +749,17 @@ Package microtype Info: Character `029' is missing
 
 [3]
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 367.
+(Font)              scaled to size 9.37807pt on input line 371.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 367.
+(Font)              scaled to size 7.29405pt on input line 371.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 367.
+(Font)              scaled to size 5.21004pt on input line 371.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.37807pt on input line 367.
+(Font)              scaled to size 9.37807pt on input line 371.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.29405pt on input line 367.
+(Font)              scaled to size 7.29405pt on input line 371.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 367.
+(Font)              scaled to size 5.21004pt on input line 371.
 
 
 [4]
@@ -779,18 +779,18 @@ Package rerunfilecheck Info: File `cv.out' has not changed.
 (rerunfilecheck)             Checksum: D7D6CE8A85A3F8E94B3712528B1B216A;4389.
  ) 
 Here is how much of TeX's memory you used:
- 26577 strings out of 469806
- 484643 string characters out of 5481264
+ 26603 strings out of 469806
+ 484870 string characters out of 5481264
  894593 words of memory out of 5000000
  54030 multiletter control sequences out of 15000+600000
- 695162 words of font info for 350 fonts, out of 8000000 for 9000
+ 696479 words of font info for 370 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
  117i,12n,121p,1014b,504s stack positions out of 10000i,1000n,20000p,200000b,200000s
  </Users/sethwatts/Library/TinyTeX/texmf-var/fonts/pk/ljfour/jknappen/ec/ectt1095.600pk></Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.pfb></Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/type1/public/fpl/fplrij8a.pfb></Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></Users/sethwatts/Library/TinyTeX/texmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on cv.pdf (7 pages, 128832 bytes).
+Output written on cv.pdf (7 pages, 129220 bytes).
 PDF statistics:
- 291 PDF objects out of 1000 (max. 8388607)
- 252 compressed objects within 3 object streams
- 57 named destinations out of 1000 (max. 500000)
+ 290 PDF objects out of 1000 (max. 8388607)
+ 251 compressed objects within 3 object streams
+ 58 named destinations out of 1000 (max. 500000)
  80125 words of extra memory for PDF output out of 89155 (max. 10000000)
 

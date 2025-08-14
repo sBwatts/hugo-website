@@ -64,13 +64,12 @@ Policing: innovation, intersection with public health issues, and technology; Pr
 
 # Working Papers
 
+**Watts, S.**, del Pozo, B., White, D. M., & Malm, A. Does Automated Feedback Impact the Acceptability of AI-Generated Police Body Worn Camera Review? An Implementation Science Natural Experiment.
+
 White, M. D., **Watts, S.**, & Malm, A. (2025). An Evaluation of Truleo’s AI-based Body-Worn Camera Analytics. *CrimRxiv*. ([pre-print](https://www.crimrxiv.com/pub/hy6q0g5t))
 
-White, M. D., **Watts, S.**, Malm, A., & Navarrete, G. B. (2025). Officer Acceptance and Use of AI-Driven Body-Worn Camera Footage Review. *CrimRxiv*. ([pre-print](https://doi.org/10.21428/cb6ab371.291631e5))
 
 # Work in Progress
-
-Watts, S., del Pozo, B., White, D. M., & Malm, A. Implementation Science Natural Experiment: Does Automated Feedback Impact Officers’ Perceptions?
 
 Watts, S., White, D, M., & Malm, A. AI in Policing: Capturing Police Performance (Good and Bad) in Routine, Rare, and Novel Events
 
@@ -79,6 +78,8 @@ Watts, S., White, D, M., & Malm, A. AI in Policing: Capturing Police Performance
 [Google Scholar Profile](https://scholar.google.com/citations?user=_zgKKS0AAAAJ&hl=en&oi=ao): total citations = 126, h-index = 5, i10-index = 4
 
 ## Peer-Reviewed Journal Articles
+
+1. White, M. D., **Watts, S.**, Malm, A., & Navarrete, G. B. (*Forthcoming*). Officer Acceptance and Use of AI-Driven Body-Worn Camera Footage Review. *American Journal of Criminal Justice*. [(pre-print)](https://doi.org/10.21428/cb6ab371.291631e5)
 
 1. **Watts, S**., White, M. D., Malm, A., & Perrone, D. (2024). Who is Fatigued? Examining Officer Attitudes Towards People Who Use Opioids, Naloxone, and Their Role in Responding to Opioid Overdoses. *Journal of Criminal Justice*, 95, 102308. [(DOI)](https://doi.org/10.1016/j.jcrimjus.2024.102308) 
 
@@ -101,6 +102,8 @@ Watts, S., White, D, M., & Malm, A. AI in Policing: Capturing Police Performance
 1. White, M. D., Malm, A., Perrone, D., & **Watts, S**. (2021). Narcan Cops: Officer Perceptions of Opioid Use and Willingness to Carry Naloxone. *Journal of Criminal Justice*, 72, 101778. ([DOI](https://www-sciencedirect-com.ezproxy1.lib.asu.edu/science/article/pii/S0047235220302725?casa_token=M3KzLm4DIoUAAAAA:KhQQ6E6WpFcNQdyfTN33-SRHRPttqc81ijlWaNX0wOOYu3TiHBIa17DzDZS2_7K_vU9_CQwdAaA))
 
 ## Study Pre-registrations
+
+Seth Watts, Michael D. White, & Aili Malm. "Truleo Report Writing" [Registered at OSF](https://osf.io/cqbmw/).
 
 Seth Watts, Michael D. White, & Aili Malm. "A Process and Outcome Evaluation of Automated Body-Worn Camera Review Technology in 3 Arizona Police Departments." [Registered at OSF. Embargoed (pending results).](https://osf.io/vdycb/)
 
