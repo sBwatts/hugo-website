@@ -1,0 +1,282 @@
+---
+title: "Police III"
+subtitle: "CJ 4310: Special Problems in the Criminal Justice System"
+author: "Seth Watts, PhD <br /> <br />  Department of Criminal Justice & Criminology"
+#institute: Department of Criminal Justice & Criminology
+output:
+  xaringan::moon_reader:
+    css: ["default", "txst-xaringan-style.css"]
+    lib_dir: libs
+    self-contained: true
+    seal: false
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+class: center, middle
+background-image: url("tsu-logo.jpg")
+background-position: 49% 68%
+background-size: 40%
+
+# Police II: Focused Deterrence
+## CJ 4310: Special Problems in the Criminal Justice System
+
+<br>
+<br>
+
+**Seth Watts, PhD**
+
+School of Criminal Justice & Criminology
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+
+September 22, 2025
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+xaringanExtra::use_tachyons()
+xaringanExtra::use_panelset()
+```
+---
+class: middle
+
+# Overview
+
+1. What is Focused Deterrence
+
+1. Examples of Focused Deterrence
+
+1. The Evidence for Focused Deterrence
+
+1. Critiques
+
+---
+class: center, middle, inverse
+
+# What is Focused Deterrence?
+
+---
+class: center, middle
+# But first, what is deterrence?
+
+---
+# Deterrence
+
+<div style="position: absolute; top: 16em; right: 25em; width: 300px;">
+<img src="beccaria.png" style="width: 60%; display: block; margin: 0 auto;" />
+<p style="font-size: 0.75em; text-align: center; margin-top: 0.1em; display: block; width: 100%;">Cesare Beccaria, 1738-1794</p>
+</div>
+
+<div style="position: absolute; top: 16em; right: 5em; width: 300px;">
+<img src="bentham.png" style="width: 60%; display: block; margin: 0 auto;" />
+<p style="font-size: 0.75em; text-align: center; margin-top: 0.1em; display: block; width: 100%;">Jeremy Bentham, 1748-1832</p>
+</div>
+
+- *Certain*, *swift*, and *severe* (severe enough to offset the potential gains of criminal activity) yet proportional punishment will prevent law violating behavior
+
+- Assumption that humans are rational actors who are hedonistic (maximize pleasure, minimize pain)
+
+
+---
+class: center, middle
+
+# Now, let's apply deterrence theory in a focused manner
+
+---
+# Focused Deterrence
+
+<div style="position: absolute; bottom: 8em; right: 8em; width: 600px; height: 400px;">
+<iframe width="100%" height="100%" 
+        src="https://www.youtube.com/embed/tre0ERGEFIA" 
+        frameborder="0" 
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+        allowfullscreen>
+</iframe>
+
+</div>
+
+---
+# Focused Deterrence
+
+<div style="position: absolute; top: 6em; right: 0em; width: 550px;">
+<img src="network.png" style="width: 70%; display: block; margin: 0 auto;" />
+<p style="font-size: 0.75em; text-align: center; margin-top: 0.1em; display: block; width: 100%;">Papachristos et al. 2015</p>
+</div>
+
+.pull-left[
+- Shootings are generally concentrated among high-risk individuals (just like high-risk streets)
+
+- Shooters and shooting victims tend to overlap (e.g., victim-offender overlap)
+  - Also, family and friends have a greater risk of being victimized
+
+- Policy can focus on these individuals to reduce gun violence
+]
+
+---
+# Focused Deterrence
+
+**Two messages**:
+  - Agree to stop engaging in gun violence and you can access a host of social services that may be of use to you (*carrot*)
+
+  - If you do not stop, law enforcement knows where you tend to frequent, they know your associates, and you will be arrested (*stick*)
+
+--
+
+**Important**:
+
+  - This message is not solely delivered by the police
+  
+  - Family, friends, revered community figures (e.g., pastors), among others openly try to persuade the high-risk individuals away from gun violence
+  
+---
+class: center, middle, inverse
+
+# Operation Ceasefire
+Kennedy et al. (2001)
+
+---
+# Operation Ceasefire 
+
+<div style="position: absolute; top: 6em; right: 1em; width: 450px;">
+<img src="kennedy.png" style="width: 60%; display: block; margin: 0 auto;" />
+<p style="font-size: 0.75em; text-align: center; margin-top: 0.1em; display: block; width: 100%;">David Kennedy</p>
+</div>
+
+.pull-left[
+- The first focused deterrence approach in the late 90s
+  - Focused on youth gang violence in Boston, MA
+  
+- Also referred to as "pulling levers" approach
+
+- The goal:
+  - Drive down youth gun violence by targeting chronic offenders with the certainty of punishment (*stick*) and using mediators to divert them away (*carrot*)
+]
+---
+# Operation Ceasefire
+
+```{r, echo=FALSE, out.width="90%", fig.align="center"}
+knitr::include_graphics("ceasefire.png")
+```
+.center.small[Source: [Kennedy et al. (2001)](https://www.ojp.gov/pdffiles1/nij/188741.pdf)]
+
+---
+class: center, middle, inverse
+
+# Drug Market Intervention
+Corsaro et al. (2012)
+
+---
+# High Point Drug Market Intervention
+
+- Target individuals operating within drug markets in High Point, NC
+  - Violent offenders were arrested
+  - Non-violent offenders were notified of a "call-in" session and went through a needs assessment for local social services
+
+```{r, echo=FALSE, out.width="75%", fig.align="center"}
+knitr::include_graphics("highpoint.png")
+```
+.center.small[Source: [Corsaro et al. (2012)](https://research.ebsco.com/c/siow6l/viewer/pdf/rgec7zg2rb)]
+
+---
+# High Point Drug Market Intervention
+
+- Target individuals operating within drug markets in High Point, NC
+  - Violent offenders were arrested
+  - Non-violent offenders were notified of a "call-in" session and went through a needs assessment for local social services
+
+```{r, echo=FALSE, out.width="75%", fig.align="center"}
+knitr::include_graphics("highpoint2.png")
+```
+.center.small[Source: [Corsaro et al. (2012)](https://research.ebsco.com/c/siow6l/viewer/pdf/rgec7zg2rb)]
+
+---
+class: center, middle, inverse
+
+# Meta-analysis
+Braga, Weisburd, & Turchan (2018)
+
+---
+# Meta-analysis
+
+| **Crime category**         | **Effect size**  |
+|----------------------------|------------------|
+|Overall                     |.383*             |
+|Drug Market Intervention   |.091*             |
+|Gang/Group                  |.657*             |
+|High-risk Individuals       |.204*             |
+|Matched Quasi-experiment    |.194*             |
+|Non-matched Quasi-experiment|.703*             |
+
+--
+
+.quote-box[
+"Although the evaluation evidence needs to be strengthened with rigorous randomized experimental field trials, and more developed study of the theoretical mechanisms underlying its impacts, our review suggests that jurisdictions suffering from gang violence, overt drug markets, and repeat offender problems should add focused deterrence strategies to their existing portfolio of prevention and control interventions."
+
+.quote-attrib.right[[Braga, Weisburd, & Turchan, 2018](https://onlinelibrary.wiley.com/doi/abs/10.1111/1745-9133.12353?casa_token=AV0TMLvfW2gAAAAA%3ATqTkrJcQvIJUUyUIE1RntnnWJPaSazFkb8sNjCtkRNlBIPqOLEdNzqKWN6KpStKizVgWxMs5D844yw)]
+
+]
+
+
+---
+class: center, middle, inverse
+
+# Critiques of Focused Deterrence
+
+---
+# No Randomized Field Experiments
+
+- Often times the intervention is city-wide so it is hard to find a reasonable comparison group
+
+- The best available studies are level 3 and 4 on the Maryland scale (matched and non-matched evaluations)
+
+|**Method** | **Maryland Scale**  |**Present for FD research?** |
+|-------------------------|---------------------------|---------|
+|Randomization            |Level 5 (Gold Standard)    |☒ |
+|Multiple units           |Level 4                    |☑ |
+|Control                  |Level 3                    |☑ |
+|Before-After             |Level 2                    |☑ |
+|Cross sectional; No Randomization  |Level 1          |☑ |
+
+---
+# Somewhat Opaque Mechanisms
+
+- What is driving the decline in violence?
+
+--
+
+- Is it the certainty of punishment? The swiftness? The severity of punishment? The messages from family, friends, or community members? The services offered? The perceived legitimacy of the process? A combination of the above?
+
+---
+# Locally Tailored
+
+- Crime problems, political will, agency capacity, inter-agency collaboration, funding, and many other factors vary from city-to-city
+
+- Taking Boston's Operation Ceasefire and directly replicating it in Austin, TX would likely not work
+  - This also may not be desired! Different crime problems may necessitate different approaches
+
+---
+# Key Takeaways
+
+- Focused Deterrence has been shown to be effective at reducing gun violence
+
+- Directed messages indicating the certainty of punishment likely contributes to reduced violence
+  - It also helps prevent net-widening (e.g., incarceration of lower-level offenders)
+
+- Despite no randomized control trials and the difficulties with implementation, it is an evidence-based practice
+
+<br>
+--
+.quote-box[
+[S]trategies that result in large and visible shifts in apprehension risk are most likely to have deterrent effects that are large enough not only to reduce crime but also apprehensions...”
+
+.quote-attrib.right[Durlauf & Nagin (2011: p. 40)]
+]
+
