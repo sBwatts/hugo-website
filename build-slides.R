@@ -29,31 +29,30 @@ file.copy(
   overwrite = TRUE
 )
 
+
+
 # syllabus
-
 src_dir <- "content/courses/crime-control-strat-2025/syllabus"
-dst_dir <- "public/courses/crime-control-strat-2025/syllabus"
+static_dst <- "static/courses/crime-control-strat-2025/syllabus"
 
-dir.create(dst_dir, recursive = TRUE, showWarnings = FALSE)
+dir.create(static_dst, recursive = TRUE, showWarnings = FALSE)
 
 rmd_files <- list.files(src_dir, pattern = "\\.Rmd$", full.names = TRUE)
 
 for (f in rmd_files) {
-  cat("Rendering (in-place):", f, "\n")
-  pdf_path <- tryCatch({
-    # render where the Rmd lives (no output_dir) to avoid LaTeX path bugs
-    out <- rmarkdown::render(
-      input  = f,
-      output_format = "stevetemplates::syllabus",
-      clean  = TRUE,
-      envir  = new.env(parent = globalenv())
-    )
-    out  # returns the path to the PDF
-  }, error = function(e) {
-    stop("Render failed for ", f, " -> ", e$message)
-  })
+  cat("Rendering in-place:", f, "\n")
+  out_pdf <- rmarkdown::render(
+    input = f,
+    output_format = "stevetemplates::syllabus",
+    clean = TRUE,
+    envir = new.env(parent = globalenv())
+  )
   
-  # copy the PDF into public/
-  file.copy(pdf_path, file.path(dst_dir, basename(pdf_path)), overwrite = TRUE)
-  cat("Copied:", basename(pdf_path), "to", dst_dir, "\n")
+  # 1) Copy the good PDF into static/ (the source Hugo will publish)
+  file.copy(out_pdf, file.path(static_dst, "syllabus.pdf"), overwrite = TRUE)
+  cat("Copied to static:", file.path(static_dst, "syllabus.pdf"), "\n")
+  
+  # 2) Remove the PDF from content/ so it cannot overwrite during hugo build
+  file.remove(out_pdf)
+  cat("Removed content-side copy:", out_pdf, "\n")
 }
