@@ -29,7 +29,7 @@ linkcolor: txst
 urlcolor: txst
 ---
 ```{r setup, include=F}
-
+# setup
 library(knitr)
 library(kableExtra)
 
@@ -73,6 +73,7 @@ the text materials and other required materials.
 Below are the assignments and their points for the class:
 
 ```{r, echo=FALSE}
+# assignments
 library(kableExtra)
 
 assignments <- data.frame(
@@ -197,6 +198,7 @@ http://www.library.txstate.edu/about/departments/circ/laptop.
 # Course Schedule
 
 ```{r, echo=FALSE}
+# schedule
 schedule <- data.frame(
   Week = 1:15,
   Date = c("Aug 25-31", "Sep 1-7", "Sep 8-14", "Sep 15-21", "Sep 22-28", "Sep 29-Oct 5", "Oct 6-12", "Oct 13-19", "Oct 20-26", "Oct 27-Nov 2", "Nov 3-9", "Nov 10-16", "Nov 17-23", "Nov 24-Nov 30", "Dec 1-7"),

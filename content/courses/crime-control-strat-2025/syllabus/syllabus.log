@@ -574,6 +574,9 @@ LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 16
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 )
 
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 206.
+
 [1
 
 ]
@@ -590,11 +593,11 @@ and I'll forget about whatever was undefined.
 
  
 Here is how much of TeX's memory you used:
- 20726 strings out of 470396
- 389961 string characters out of 5488019
- 773298 words of memory out of 5000000
- 48709 multiletter control sequences out of 15000+600000
- 646340 words of font info for 82 fonts, out of 8000000 for 9000
+ 20722 strings out of 470396
+ 389876 string characters out of 5488019
+ 773102 words of memory out of 5000000
+ 48705 multiletter control sequences out of 15000+600000
+ 647180 words of font info for 83 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 102i,11n,107p,1197b,415s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,11n,107p,1197b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
 Output written on syllabus.pdf (1 page).
