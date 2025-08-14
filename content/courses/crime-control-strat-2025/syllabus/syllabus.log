@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.24)  14 AUG 2025 09:29
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.24)  14 AUG 2025 09:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -477,137 +477,34 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@expandcount=\count327
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/tools/array.sty
-Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
-\col@sep=\dimen288
-\ar@mcellbox=\box71
-\extrarowheight=\dimen289
-\NC@list=\toks36
-\extratabsurround=\skip80
-\backup@length=\skip81
-\ar@cellbox=\box72
-) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/multirow/multirow.sty
-Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
-\multirow@colwidth=\skip82
-\multirow@cntb=\count328
-\multirow@dima=\skip83
-\bigstrutjot=\dimen290
-) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/wrapfig/wrapfig.sty
-\wrapoverhang=\dimen291
-\WF@size=\dimen292
-\c@WF@wrappedlines=\count329
-\WF@box=\box73
-\WF@everypar=\toks37
-Package: wrapfig 2003/01/31  v 3.6
-) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/float/float.sty
-Package: float 2001/11/08 v1.3d Float enhancements (AL)
-\c@float@type=\count330
-\float@exts=\toks38
-\float@box=\box74
-\@float@everytoks=\toks39
-\@floatcapt=\box75
-) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
-\everycr=\toks40
-\minrowclearance=\skip84
-\rownum=\count331
-) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-Package: pdflscape 2025-06-23 v0.14 Display of landscape pages in PDF
-(/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
-Package: pdflscape-nometadata 2025-06-23 v0.14 Display of landscape pages in PDF (HO)
-(/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/graphics/lscape.sty
-Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
-)
-Package pdflscape Info: Auto-detected driver: dvipdfm (xetex) on input line 98.
-)) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/tabu/tabu.sty
-Package: tabu 2019/01/11 v2.9 - flexible LaTeX tabulars (FC+tabu-fixed)
-(/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/varwidth/varwidth.sty
-Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
-\@vwid@box=\box76
-\sift@deathcycles=\count332
-\@vwid@loff=\dimen293
-\@vwid@roff=\dimen294
-)
-==> First Aid for varwidth.sty applied!
-\c@taburow=\count333
-\tabu@nbcols=\count334
-\tabu@cnt=\count335
-\tabu@Xcol=\count336
-\tabu@alloc=\count337
-\tabu@nested=\count338
-\tabu@target=\dimen295
-\tabu@spreadtarget=\dimen296
-\tabu@naturalX=\dimen297
-\tabucolX=\dimen298
-\tabu@Xsum=\dimen299
-\extrarowdepth=\dimen300
-\abovetabulinesep=\dimen301
-\belowtabulinesep=\dimen302
-\tabustrutrule=\dimen303
-\tabu@thebody=\toks41
-\tabu@footnotes=\toks42
-\tabu@box=\box77
-\tabu@arstrutbox=\box78
-\tabu@hleads=\box79
-\tabu@vleads=\box80
-\tabu@cellskip=\skip85
-) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/threeparttable/threeparttable.sty
-Package: threeparttable 2003/06/13  v 3.0
-\@tempboxb=\box81
-) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/threeparttablex/threeparttablex.sty
-Package: threeparttablex 2013/07/23 v0.3 by daleif
-(/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/environ/environ.sty
-Package: environ 2014/05/04 v0.3 A new way to define environments
-(/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/trimspaces/trimspaces.sty
-Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
-)
-\@envbody=\toks43
-)
-\TPTL@width=\skip86
-) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/generic/ulem/ulem.sty
-\UL@box=\box82
-\UL@hyphenbox=\box83
-\UL@skip=\skip87
-\UL@hook=\toks44
-\UL@height=\dimen304
-\UL@pe=\count339
-\UL@pixel=\dimen305
-\ULC@box=\box84
-Package: ulem 2019/11/18
-\ULdepth=\dimen306
-) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/makecell/makecell.sty
-Package: makecell 2009/08/03 V0.1e Managing of Tab Column Heads and Cells
-\rotheadsize=\dimen307
-\c@nlinenum=\count340
-\TeXr@lab=\toks45
-) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+))) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2025-04-14 L3 backend support: XeTeX
-\g__graphics_track_int=\count341
-\g__pdfannot_backend_int=\count342
-\g__pdfannot_backend_link_int=\count343
+\g__graphics_track_int=\count328
+\g__pdfannot_backend_int=\count329
+\g__pdfannot_backend_link_int=\count330
 ) (./syllabus.aux)
 \openout1 = `syllabus.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 139.
-LaTeX Font Info:    ... okay on input line 139.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -642,37 +539,37 @@ LaTeX Font Info:    ... okay on input line 139.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\big@size=\dimen308
-Package hyperref Info: Link coloring ON on input line 139.
+\big@size=\dimen288
+Package hyperref Info: Link coloring ON on input line 125.
 (./syllabus.out) (./syllabus.out)
 \@outlinefile=\write4
 \openout4 = `syllabus.out'.
 
-LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 142.
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 128.
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Trying to load font information for OML+zplm on input line 142.
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 128.
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 142.
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 128.
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 142.
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 128.
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 142.
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 128.
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 152.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 138.
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 183.
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 169.
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 )
@@ -680,37 +577,24 @@ File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 [1
 
 ]
+! Undefined control sequence.
+<recently read> \cellcolor 
+                           
+l.230 \end{tabular}}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-[2]
-
-[3]
-Overfull \hbox (15.49495pt too wide) in paragraph at lines 371--380
-\T1/ppl/m/n/10.95 State Uni-ver-sity Honor Code ([][]$http : / / www . txstate . edu / honorcodecouncil / Academic-[]Integrity . html$[][])
- []
-
-
-
-[4]
-
-[5]
-
-[6] 
-enddocument/afterlastpage (AED): lastpage setting LastPage.
-(./syllabus.aux)
- ***********
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-05-26>
- ***********
-Package rerunfilecheck Info: File `syllabus.out' has not changed.
-(rerunfilecheck)             Checksum: 1FF4C3E5CC5D862E96242D817C47DE40;297.
- ) 
+ 
 Here is how much of TeX's memory you used:
- 22316 strings out of 470482
- 415912 string characters out of 5490176
- 808560 words of memory out of 5000000
- 50148 multiletter control sequences out of 15000+600000
- 652949 words of font info for 93 fonts, out of 8000000 for 9000
+ 20721 strings out of 470482
+ 389867 string characters out of 5490176
+ 770346 words of memory out of 5000000
+ 48618 multiletter control sequences out of 15000+600000
+ 646340 words of font info for 82 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 102i,12n,107p,1197b,417s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-Output written on syllabus.pdf (6 pages).
+ 102i,11n,107p,1197b,415s stack positions out of 10000i,1000n,20000p,200000b,200000s
+Output written on syllabus.pdf (1 page).
