@@ -28,3 +28,32 @@ file.copy(
   recursive = TRUE,
   overwrite = TRUE
 )
+
+# syllabus
+
+src_dir <- "content/courses/crime-control-strat-2025/syllabus"
+dst_dir <- "public/courses/crime-control-strat-2025/syllabus"
+
+dir.create(dst_dir, recursive = TRUE, showWarnings = FALSE)
+
+rmd_files <- list.files(src_dir, pattern = "\\.Rmd$", full.names = TRUE)
+
+for (f in rmd_files) {
+  cat("Rendering (in-place):", f, "\n")
+  pdf_path <- tryCatch({
+    # render where the Rmd lives (no output_dir) to avoid LaTeX path bugs
+    out <- rmarkdown::render(
+      input  = f,
+      output_format = "stevetemplates::syllabus",
+      clean  = TRUE,
+      envir  = new.env(parent = globalenv())
+    )
+    out  # returns the path to the PDF
+  }, error = function(e) {
+    stop("Render failed for ", f, " -> ", e$message)
+  })
+  
+  # copy the PDF into public/
+  file.copy(pdf_path, file.path(dst_dir, basename(pdf_path)), overwrite = TRUE)
+  cat("Copied:", basename(pdf_path), "to", dst_dir, "\n")
+}

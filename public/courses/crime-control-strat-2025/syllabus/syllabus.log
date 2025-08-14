@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.14)  14 AUG 2025 10:24
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.14)  14 AUG 2025 09:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -477,49 +477,34 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@expandcount=\count327
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
-))) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/colortbl/colortbl.sty
-Package: colortbl 2024/10/29 v1.0k Color table columns (DPC)
-(/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/tools/array.sty
-Package: array 2025/06/08 v2.6j Tabular extension package (FMi)
-\col@sep=\dimen288
-\ar@mcellbox=\box71
-\extrarowheight=\dimen289
-\NC@list=\toks36
-\extratabsurround=\skip80
-\backup@length=\skip81
-\ar@cellbox=\box72
-)
-\everycr=\toks37
-\minrowclearance=\skip82
-\rownum=\count328
-) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+))) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
 File: l3backend-xetex.def 2025-06-09 L3 backend support: XeTeX
-\g__graphics_track_int=\count329
-\g__pdfannot_backend_int=\count330
-\g__pdfannot_backend_link_int=\count331
+\g__graphics_track_int=\count328
+\g__pdfannot_backend_int=\count329
+\g__pdfannot_backend_link_int=\count330
 ) (./syllabus.aux)
 \openout1 = `syllabus.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for TU/lmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 125.
+LaTeX Font Info:    ... okay on input line 125.
 *geometry* driver: auto-detecting
 *geometry* detected driver: xetex
 *geometry* verbose mode - [ preamble ] result:
@@ -554,75 +539,65 @@ LaTeX Font Info:    ... okay on input line 127.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-\big@size=\dimen290
-Package hyperref Info: Link coloring ON on input line 127.
+\big@size=\dimen288
+Package hyperref Info: Link coloring ON on input line 125.
 (./syllabus.out) (./syllabus.out)
 \@outlinefile=\write4
 \openout4 = `syllabus.out'.
 
-LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 130.
+LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 128.
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ot1ppl.fd
 File: ot1ppl.fd 2001/06/04 font definitions for OT1/ppl.
 )
-LaTeX Font Info:    Trying to load font information for OML+zplm on input line 130.
+LaTeX Font Info:    Trying to load font information for OML+zplm on input line 128.
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omlzplm.fd
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 130.
+LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 128.
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omszplm.fd
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 130.
+LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 128.
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/psnfss/omxzplm.fd
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
-LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 130.
+LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 128.
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ot1zplm.fd
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 140.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 138.
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/lm/t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 171.
+LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 169.
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/psnfss/ts1ppl.fd
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 )
 
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 206.
+
 [1
 
 ]
+! Undefined control sequence.
+<recently read> \cellcolor 
+                           
+l.230 \end{tabular}}
+                    
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
 
-[2]
-
-[3]
-Overfull \hbox (15.49495pt too wide) in paragraph at lines 359--368
-\T1/ppl/m/n/10.95 State Uni-ver-sity Honor Code ([][]$http : / / www . txstate . edu / honorcodecouncil / Academic-[]Integrity . html$[][])
- []
-
-
-
-[4]
-
-[5]
-
-[6] 
-enddocument/afterlastpage (AED): lastpage setting LastPage.
-(./syllabus.aux)
- ***********
-LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-08-13>
- ***********
-Package rerunfilecheck Info: File `syllabus.out' has not changed.
-(rerunfilecheck)             Checksum: 1FF4C3E5CC5D862E96242D817C47DE40;297.
- ) 
+ 
 Here is how much of TeX's memory you used:
- 20902 strings out of 470396
- 392669 string characters out of 5488019
- 786693 words of memory out of 5000000
- 48875 multiletter control sequences out of 15000+600000
- 652843 words of font info for 92 fonts, out of 8000000 for 9000
+ 20722 strings out of 470396
+ 389876 string characters out of 5488019
+ 773102 words of memory out of 5000000
+ 48705 multiletter control sequences out of 15000+600000
+ 647180 words of font info for 83 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 102i,12n,107p,1197b,417s stack positions out of 10000i,1000n,20000p,200000b,200000s
-
-Output written on syllabus.pdf (6 pages).
+ 102i,11n,107p,1197b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
+Output written on syllabus.pdf (1 page).
