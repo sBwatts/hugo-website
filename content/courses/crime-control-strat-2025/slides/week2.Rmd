@@ -159,8 +159,6 @@ class: center, middle, inverse
 
 ---
 
---
-
 .pull-left[
 ## EBP
 **Policy:** Hot Spots Policing
@@ -176,9 +174,9 @@ class: center, middle, inverse
 ## Non-EBP
 **Policy:** Gun Buyback Programs
 
-**Description:** To reduce gun violence, gun buyback programs offer cash in return for guns to, hopefully, reduce gun violence. These programs are often implemented locally.
+**Description:** To reduce gun violence, gun buyback programs offer cash in return for guns to, ideally, reduce gun violence. These programs are often implemented locally.
 
-**Evidence:** The evidence on this intervention is limited and mixed at best. There are no rigorous evaluations of gun buyback programs. Moreover, it is frequently the case that few guns are turned in, making it unlikely to meaningfully impact gun violence rates. 
+**Evidence:** The evidence on this intervention is effectively non-existent. Gun buy-back programs in the US have consistently not had meaningful impacts on crime. It is frequently the case that few guns are turned in, making it unlikely to meaningfully impact gun violence rates. And if guns are turned in, they are guns not used in the commission of gun-related crimes.
 ]
 
 ---
