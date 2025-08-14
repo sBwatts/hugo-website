@@ -1,11 +1,11 @@
-This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.6.24)  14 AUG 2025 09:46
+This is XeTeX, Version 3.141592653-2.6-0.999997 (TeX Live 2025) (preloaded format=xelatex 2025.8.14)  14 AUG 2025 09:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **syllabus.tex
 (./syllabus.tex
 LaTeX2e <2025-06-01> patch level 1
-L3 programming layer <2025-05-26>
+L3 programming layer <2025-08-13>
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/base/article.cls
 Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/base/size11.clo
@@ -156,7 +156,7 @@ Package: lastpagemodern 2025-06-06 v2.1g Refers to last page's name (HMM; JPG)
 \c@lastpagecount=\count292
 ) 
 )) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2025-06-21 v7.01n Hypertext links for LaTeX
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
 Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
 ) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/generic/pdfescape/pdfescape.sty
@@ -186,29 +186,29 @@ Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 \Hy@linkcounter=\count294
 \Hy@pagecounter=\count295
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2025-06-21 v7.01n Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 ) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
 \Hy@SavedSpaceFactor=\count296
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2025-06-21 v7.01n Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 )
-Package hyperref Info: Option `setpagesize' set `false' on input line 4052.
-Package hyperref Info: Option `unicode' set `false' on input line 4052.
-Package hyperref Info: Hyper figures OFF on input line 4181.
-Package hyperref Info: Link nesting OFF on input line 4186.
-Package hyperref Info: Hyper index ON on input line 4189.
-Package hyperref Info: Plain pages OFF on input line 4196.
-Package hyperref Info: Backreferencing OFF on input line 4201.
+Package hyperref Info: Option `setpagesize' set `false' on input line 4066.
+Package hyperref Info: Option `unicode' set `false' on input line 4066.
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4448.
+Package hyperref Info: Bookmarks ON on input line 4462.
 \c@Hy@tempcnt=\count297
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4787.
+LaTeX Info: Redefining \url on input line 4801.
 \XeTeXLinkMargin=\dimen177
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -218,20 +218,20 @@ Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 \Fld@menulength=\count298
 \Field@Width=\dimen178
 \Fld@charsize=\dimen179
-Package hyperref Info: Hyper figures OFF on input line 6066.
-Package hyperref Info: Link nesting OFF on input line 6071.
-Package hyperref Info: Hyper index ON on input line 6074.
-Package hyperref Info: backreferencing OFF on input line 6081.
-Package hyperref Info: Link coloring OFF on input line 6086.
-Package hyperref Info: Link coloring with OCG OFF on input line 6091.
-Package hyperref Info: PDF/A mode OFF on input line 6096.
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
 \Hy@abspage=\count299
 \c@Item=\count300
 \c@Hfootnote=\count301
 )
 Package hyperref Info: Driver: hxetex.
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/hyperref/hxetex.def
-File: hxetex.def 2025-06-21 v7.01n Hyperref driver for XeTeX
+File: hxetex.def 2025-07-12 v7.01o Hyperref driver for XeTeX
 \pdfm@box=\box59
 \c@Hy@AnnotLevel=\count302
 \HyField@AnnotCount=\count303
@@ -478,7 +478,7 @@ File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
 (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/generic/pgf/frontendlayer/tikz/libraries/tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))) (/Users/sethwatts/Library/TinyTeX/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
-File: l3backend-xetex.def 2025-04-14 L3 backend support: XeTeX
+File: l3backend-xetex.def 2025-06-09 L3 backend support: XeTeX
 \g__graphics_track_int=\count328
 \g__pdfannot_backend_int=\count329
 \g__pdfannot_backend_link_int=\count330
@@ -574,6 +574,9 @@ LaTeX Font Info:    Trying to load font information for TS1+ppl on input line 16
 File: ts1ppl.fd 2001/06/04 font definitions for TS1/ppl.
 )
 
+
+LaTeX Warning: Reference `LastPage' on page 1 undefined on input line 206.
+
 [1
 
 ]
@@ -590,11 +593,11 @@ and I'll forget about whatever was undefined.
 
  
 Here is how much of TeX's memory you used:
- 20721 strings out of 470482
- 389867 string characters out of 5490176
- 770346 words of memory out of 5000000
- 48618 multiletter control sequences out of 15000+600000
- 646340 words of font info for 82 fonts, out of 8000000 for 9000
+ 20722 strings out of 470396
+ 389876 string characters out of 5488019
+ 773102 words of memory out of 5000000
+ 48705 multiletter control sequences out of 15000+600000
+ 647180 words of font info for 83 fonts, out of 8000000 for 9000
  36 hyphenation exceptions out of 8191
- 102i,11n,107p,1197b,415s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 102i,11n,107p,1197b,480s stack positions out of 10000i,1000n,20000p,200000b,200000s
 Output written on syllabus.pdf (1 page).
