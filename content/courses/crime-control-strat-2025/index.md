@@ -10,7 +10,7 @@ showToc: false
 This class will broadly cover crime control strategies. The primary focus will be on how the Criminal Justice System attempts to control criminal activity. Specifically, we will look at the role of the police, courts, and corrections in reducing offending. We will also cover how the community, environment, labor market, technology, and legislation can be utilized to control crime.
 
 
-[Syllabus](/courses/crime-control-strat-2025/syllabus/syllabus-v2.pdf)
+[Syllabus](https://sethbwatts.com/courses/crime-control-strat-2025/syllabus/syllabus.pdf)
 
 ##### Lecture Slides
 
