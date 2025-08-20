@@ -90,8 +90,6 @@ kable(assignments, format = "latex", booktabs = TRUE, escape = TRUE) %>%
 
 ```
 
-***Discussion Boards***: There will be three total discussion boards throughout the course. You will be responsible for a discussion board post and peer response worth 10 points each. The initial post should be at least 250 words in length and adequately addresses each part of the given prompt. Second, there should be two classmate response posts that should be at least 100 words in length and related to the substance of the classmate's post. These will be due Sunday by midnight.
-
 ***Assigned Readings***: Unless otherwise specifically assigned, reading assignments are taken from the required
 resources specified in this syllabus. The reading assignments listed for each class are those readings that a
 student must complete before reviewing the corresponding module’s lecture or completing corresponding
@@ -100,9 +98,11 @@ readings may be covered on exams. See the course schedule for reading assignment
 
 ***Tweet Summaries***: Each week you will submit a brief summary -no more than 280 words- to me via Canvas (Yes, this is the max limit of characters on X). This will be a summary of the readings for that particular week. The key point here is to be concise. Yes, this is a challenge but it is important to be able to synthesize research and disseminate it in ways that can be easily digested by readers. This assignment will help you think critically about the content, what should be included, and how to perfect your virtual "elevator pitch."
 
-***Paper Topic***: In preparation for the paper outline and final paper, you will submit a paper topic to me via Canvas. The paper topic should be a criminal justice policy or topical area that we cover in class. You will indicate whether you plan to write a policy paper or literature review (see below for details). Ideally this will be a short and sweet one sentence paper topic but it can be two or three sentences. You can look ahead in the course readings to generate a paper topic. It is entirely up to you but must be within the confounds of the course topics. If it is a related topic but not covered in the class, let me know and we can discuss. 
+***Discussion Boards***: There will be three total discussion boards throughout the course. You will be responsible for a discussion board post and peer response worth 10 points each. The initial post should be at least 250 words in length and adequately addresses each part of the given prompt. Second, there should be two classmate response posts that should be at least 100 words in length and related to the substance of the classmate's post. These will be due Sunday by midnight.
 
-***Paper Outline***: To help facilitate the development of your final paper, you will submit a paper outline via Canvas. This outline should be no more than three pages. It should include section and subsection headers, potential evidence to bring in, citations, and arguments to be made. It should serve as the scaffolding for your final paper. This is not a set in stone outline, if you deviate, you will not be penalized. However, if you change your paper topic after the outline is submitted, please notify me. Be sure to include a reference page (not included in the approximately 3 page limit). 
+***Paper Topic***: In preparation for the paper outline and final paper, you will submit a paper topic to me via Canvas. The paper topic should be a criminal justice policy or topical area that we cover in class. You will also indicate whether you plan to write a policy paper or literature review (see below for details). Ideally this will be a short and sweet ~1-3 sentence submission indicating (1) your topic and (2) the paper style. You can look ahead in the course readings to generate a paper topic. It is entirely up to you but must be within the confounds of the course topics. If it is a related topic but not covered in the class, let me know and we can discuss. 
+
+***Paper Outline***: To help facilitate the development of your final paper, you will submit a paper outline via Canvas. This outline should be a minimum of two pages (double spaced). It should include section and subsection headeings, potential evidence to bring in, citations, and arguments to be made. It should serve as the scaffolding for your final paper. This is not a set in stone outline, if you deviate, you will not be penalized. However, if you change your paper topic after the outline is submitted, please notify me. Be sure to include a reference page (not included in the approximately 2 page minimum). 
 
 ***Final Paper***: You have two options for your final paper: a **Policy paper** or **Literature review**.
 
@@ -112,9 +112,13 @@ The final paper should be approximately 8-10 pages (double spaced), with 5 diffe
   
   - ***Literature review***: Broad in scope and intended for an academic audience. This should be a paper that synthesizes the research of your chosen topic, providing the background, examples, strengths and weaknesses, and a conclusion on the efficacy of your chosen policy/intervention. this paper should be structured as an expository article.
 
-***Midterm Exam***: Your midterm exam will consist of 75 multiple choice questions. The midterm will cover the first 7 weeks of content. These will be online in Canvas and will be due Friday night by midnight. Once the exam is accessed you will have 1 hour and 30 minutes to complete the exam.
+***Midterm Exam***: Your midterm exam will consist of 100 multiple choice questions. The midterm will cover the first 7 weeks of content. These will be online in Canvas and will be due Friday night by midnight. Once the exam is accessed you will have 2 hours and 30 minutes to complete the exam.
 
-***Final Exam***: Your final exam will consist of 75 multiple choice questions. The final exam will cover the final 6 weeks of content. These will be online in Canvas and will be due Friday night by midnight. Once the exam is accessed you will have 1 hour and 30 minutes to complete the exam.
+***Final Exam***: Your final exam will consist of 100 multiple choice questions. The final exam will cover the final 6 weeks of content. These will be online in Canvas and will be due Friday night by midnight. Once the exam is accessed you will have 2 hours and 30 minutes to complete the exam.
+
+## Exam Requirements
+
+You will be required to install the Proctorio extension for your midterm and final exams. Please visit the following link to enable the Proctorio extension for your browser: https://getproctorio.com/. You will be erquired to have your camera and audio enabled.
 
 # Course Policies
 
@@ -125,6 +129,8 @@ Time). In extreme cases, as approved by the instructor, late work will be accept
 alternate due date. Work submitted late for other reasons will be penalized 10% for each day late.
 Notify the instructor BEFORE an assignment is due if an urgent situation arises and the assignment will
 not be submitted on time. Published assignment due dates are firm.
+
+**Missed Exams**: Exams are open to be taken during the whole week that it is due. Because it is open for an extended period of time, makeup exams will not be accepted unless there are extenuating circumstances that you email me about ASAP. Makeup exams will be decided on a case-by-case basis.
 
 **Grade Records**: To the extent possible, I will try to make sure that grades for the assignments are posted
 within approximately three days after its due date. On occasion, some assignments require intermediate feedback in which a longer turnaround should be expected. Once the assignment is evaluated, its grades will be placed into the Canvas gradebook and will be available to you. Exam/quiz grades will be posted upon completion of the exam/quiz. Individual reports will not be sent apart from the information recorded in Canvas, so you should periodically monitor the gradebook to assure your assignments have been received and graded.

@@ -103,7 +103,7 @@ Watts, S., White, D, M., & Malm, A. AI in Policing: Capturing Police Performance
 
 ## Study Pre-registrations
 
-Seth Watts, Michael D. White, & Aili Malm. "Truleo Report Writing" [Registered at OSF](https://osf.io/cqbmw/).
+Seth Watts, Michael D. White, & Aili Malm. "Truleo Report Writing." [Registered at OSF](https://osf.io/cqbmw/).
 
 Seth Watts, Michael D. White, & Aili Malm. "A Process and Outcome Evaluation of Automated Body-Worn Camera Review Technology in 3 Arizona Police Departments." [Registered at OSF. Embargoed (pending results).](https://osf.io/vdycb/)
 
