@@ -275,7 +275,7 @@ class: center, middle, inverse
 <br>
 --
 .quote-box[
-"[S]trategies that result in large and visible shifts in apprehension risk are most likely to have deterrent effects that are large enough not only to reduce crime but also apprehensions...”
+[S]trategies that result in large and visible shifts in apprehension risk are most likely to have deterrent effects that are large enough not only to reduce crime but also apprehensions...”
 
 .quote-attrib.right[Durlauf & Nagin (2011: p. 40)]
 ]

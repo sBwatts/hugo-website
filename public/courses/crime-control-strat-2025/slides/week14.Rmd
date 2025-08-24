@@ -90,9 +90,9 @@ class: center, middle, inverse
 ---
 # Vision and Surveilance 
 
-**Facial recognition technology**
+1. **Facial recognition technology**
 
-In theory, this would help law enforcement quickly (and accurately) identify suspects
+- In theory, this should help law enforcement quickly (and accurately) identify suspects
 
 > "Police utilize FRT in three main ways: (a) to identify individuals during stops or arrests, (b) to search video footage for investigations, and (c) to perform real-time scans of people near surveillance cameras." - Johnson et al. (2024)
 
@@ -110,13 +110,11 @@ knitr::include_graphics("frt.png")
 
 **Automated license plate readers (ALPRs)**
 
-As discussed a few weeks ago, ALPRs are able to run plates much quicker than an officer manually calling dispatch
+- As discussed a few weeks ago, ALPRs are able to run plates much quicker than an officer manually calling dispatch
 
-> Texas State University uses license plate readers for checking campus parking permits
+- Primarily adopted to help address auto-related crimes
 
-Primarily adopted to help address auto-related crimes
-
-Can be setup on patrol vehicles or at fixed locations around the city (e.g., intersection)
+- Can be setup on patrol vehicles or at fixed locations around the city (e.g., intersection)
 
 <br>
 ```{r, echo=FALSE, out.width="50%", fig.align="center"}
@@ -129,22 +127,22 @@ knitr::include_graphics("alpr1.png")
 
 **Gun shot detection systems**
 
-GDTs are setup across a city to detect gunfire and allow for a quick police response
+- GDTs are setup across a city to detect gunfire and allow for a quick police response
 
-This, in theory, allows police to a) apprehend offender(s), b) collect evidence, and c) allow for a quick EMS transport in an efficient manner
+- This, in theory, allows police to a) apprehend offender(s), b) collect evidence, and c) allow for a quick EMS transport in an efficient manner
 
-All of which have the potential to deter future gun violence, build a case for an arrest, and save a life
+- All of which have the potential to deter future gun violence, build a case for an arrest, and save a life
 
 ---
 # Audio and natural language processing 
 
 **Text based analysis**
 
-One form of text-based analysis that is being quickly adopted by police departments is AI-based body worn camera (BWC) auditing software
+- One form of text-based analysis that is being quickly adopted by police departments is AI-based body worn camera (BWC) auditing software
 
-While not intended to directly reduce crime, structured and detailed AI-assisted report writing could help with investigations
+- While not intended to directly reduce crime, structured and detailed AI-assisted report writing could help with investigations
 
-Moreover, if accurate facial recognition software was integrated into AI-based BWC, this too could lead to better investigations
+- Moreover, if accurate facial recognition software was integrated into AI-based BWC, this too could lead to better investigations
 
 ---
 # Audio and natural language processing
@@ -155,16 +153,17 @@ Moreover, if accurate facial recognition software was integrated into AI-based B
 knitr::include_graphics("pred-police.png")
 ```
 
-Predicting crime requires big data on previous crime trends, community factors (e.g., median income, vacant units), crime generators (e.g., liquor stores), near repeat victimization, weather, week of year trends, day of week trends, time of day trends, and other data if available
+- Predicting crime requires big data on previous crime trends, community factors (e.g., median income, vacant units), crime generators (e.g., liquor stores), near repeat victimization, weather, week of year trends, day of week trends, time of day trends, and other data if available
 
-The algorithm then forecasts where crime is likely to occur 
+- The algorithm then forecasts where crime is likely to occur 
 
-Police then use this information to position themselves to prevent offending or apprehend offenders
+- Police then use this information to position themselves to prevent offending or apprehend offenders
 
 ---
 class: center, middle, inverse
 
 # Can AI reduce crime?
+
 
 ---
 class: middle, inverse
@@ -177,7 +176,6 @@ class: middle, inverse
 1. Facial recognition technology
 
   - One of the more rigorous studies to evaluate the effect of FRT on crime and arrests found that it does reduce violent crime but does not increase arrests (Johnson et al., 2024)
-  - Johnsone et al. (2024) suggest that FRT led to *quicker* arrests likely among the most violent (an increase in the *quality* of arrests)
 
 1. Predictive policing 
 
@@ -194,23 +192,22 @@ class: middle, inverse
 ---
 # Concerns
 
-As we have discussed throughout this course, there are concerns related to the adoption of new technologies, especially forms of AI
+- As we have discussed throughout this course, there are concerns related to the adoption of new technologies, especially forms of AI
 
-Fairness, privacy, and other civil rights concerns are the most prominent 
+- Fairness, privacy, and other civil rights concerns are the most prominent 
 
 --
   - Is there racial bias present that increases policing of minority individuals?
      - Is the false positive rate higher for Black and Brown individuals?
   - What are the variables included in the predictive policing algorithm?
   - How is the data on civilians used in AI-based BWC review?
-  - How does "AI-generated" information, documents, suspicion, etc. get treated in court?
 
 ---
 # Key Takeaways
 
-The adoption of algorithms and other AI-based technologies is expanding in the criminal justice space
+- The adoption of algorithms and other AI-based technologies is expanding in the criminal justice space
 
-Much of the research in this area is new and growing
+- Much of the research in this area is new and growing
 
 .quote-box[
 "With AI technology already in use in large and small ways across the criminal justice field, system leaders, researchers, technology developers, civil society organizations, and community representatives should engage in deliberate and collaborative efforts to chart a path forward for responsible expansion and innovation. Regular dialogue and information-sharing can help flag emerging opportunities, identify and mitigate risks preemptively, and build shared standards and best practices. Responsibly managed, AI has the potential to enhance both safety and justice."
