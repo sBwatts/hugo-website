@@ -257,8 +257,8 @@ library(memer)
 library(tidyverse)
 
 meme <- meme_get("DosEquisMan") %>% 
-  meme_text_top("I don't always inform policy", size = 26) %>% 
-  meme_text_bottom("But when I do it is evidence-based", size = 24)
+  meme_text_top("I don't always inform policy", size = 20) %>% 
+  meme_text_bottom("But when I do it is evidence-based", size = 16)
 
 # Save to file
 magick::image_write(meme, "meme-ebp.png")

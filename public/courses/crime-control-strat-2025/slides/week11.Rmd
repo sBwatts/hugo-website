@@ -67,13 +67,14 @@ What does this represent?
 
 --
 
-- The Panopticon highlights a prison structure that allows a guard(s) to surveil all prisoners from a single vantage point
+The Panopticon highlights a prison structure that allows a guard(s) to surveil all prisoners from a single vantage point
 
-- Conceptually, the Panopticon represents the ultimate surveilance structure; a way for a person(s) in control to observe a populace at all times
+Conceptually, the Panopticon represents the ultimate surveilance structure; a way for a person(s) in control to observe a populace at all times
 
---
+---
+class: left, middle
 
-What does this have to do with crime?
+## What does this have to do with crime?
 
 ---
 # Deterrence and Self-Awareness Theories
@@ -105,17 +106,17 @@ Piza et al. (2019)
 .quote-attrib.center[Closed circuit television (CCTV)]
 ]
 
-- The first CCTV camera in the US was commercially available in the 1940s but the widespread adoption of CCTV cameras was not until the 1990s
+The first CCTV camera in the US was commercially available in the 1940s but the widespread adoption of CCTV cameras was not until the 1990s
 
-- CCTV captures citizen behavior 24/7
+CCTV captures citizen behavior 24/7
 
-- Acts as a deterrent because citizens are being "watched," which is considered a risk in deciding to commit a crime
+Acts as a deterrent because citizens are being "watched," which is considered a risk in deciding to commit a crime
   - Recall our section on CPTED - CCTV acts as a target hardening technology
 
 ---
 # CCTV Evidence
 
-- While there was an overall effect that indicated a modest and significant decline in crime, there was some interesting variation to note:
+While there was an overall effect that indicated a modest and significant decline in crime, there was some interesting variation to note:
 
   - Significant effects in car parks and residential areas
   
@@ -125,7 +126,7 @@ Piza et al. (2019)
   
   - Significant effect when CCTV was being actively monitored (vs passively)
   
-- Depending on the crime problem and resources devoted, CCTV could be an effective intervention
+Depending on the crime problem and resources devoted, CCTV could be an effective intervention
  
 ---
 class: center, middle, inverse
@@ -141,14 +142,14 @@ class: center, middle, inverse
 .quote-attrib.center[Automated license plate reader (ALPR)]
 ]
 
-- License plate readers began to gain traction around 2005 in the US and quickly became a widely adopted technology
+License plate readers began to gain traction around 2005 in the US and quickly became a widely adopted technology
   - The UK has been using LPR technology for decades
 
-- Instead of an officer calling dispatch to run a plate, the ALPR does this in a more efficient manner 
+Instead of an officer calling dispatch to run a plate, the ALPR does this in a more efficient manner 
 
-- Primarily adopted to help address auto-related crimes
+Primarily adopted to help address auto-related crimes
 
-- The technology is quite expensive at around $20,000 per unit
+The technology is quite expensive at around $20,000 per unit
 
 ---
 # ALPR Evidence
@@ -283,21 +284,21 @@ class: center, middle, inverse
 ---
 # Concerns 
 
-- From a resource allocation perspective, investment into these technologies may not have a large return casting doubt on their utility
+From a resource allocation perspective, investment into these technologies may not have a large return casting doubt on their utility
 
 --
-- The expansion of technology and the desire for transparency both eat away at privacy
+The expansion of technology and the desire for transparency both eat away at privacy
 
-- With any intervention that targets criminal activity, because it is concentrated geographically, some populations may be subject to more police interventions and a loss of privacy
+With any intervention that targets criminal activity, because it is concentrated geographically, some populations may be subject to more police interventions and a loss of privacy
 
 ---
 # Key takeaways
 
-- CCTV cameras appear to have some crime reducing effects when placed in certain areas and for particular offenses
+CCTV cameras appear to have some crime reducing effects when placed in certain areas and for particular offenses
 
-- Evaluations of both ALPRs and GDT generally find mixed evidence
+Evaluations of both ALPRs and GDT generally find mixed evidence
 
-- Does the evidence suggest ALPRs or GDT are worth the cost? Maybe not...
+Does the evidence suggest ALPRs or GDT are worth the cost? Maybe not...
 
 
 
