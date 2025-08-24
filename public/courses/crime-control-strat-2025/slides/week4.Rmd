@@ -202,8 +202,9 @@ knitr::include_graphics("braga-meta-2019.png")
 
 .center[Adapted from Braga et al. (2019)]
 
+
 ---
-class: center, middle
+class: left, middle
 
 ## So we just send officers to areas with higher levels of crime?
 

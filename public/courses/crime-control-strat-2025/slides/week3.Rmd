@@ -125,7 +125,7 @@ knitr::include_graphics("police-evolution.png")
 </div>
 
 .pull-left[
-- Authority stemmed from community support, law, professionalism
+- Authority stemmed from community support, law, and professionalism
 
 - Became more decentralized emphasizing officer discretion and specialized task forces
 
@@ -200,7 +200,7 @@ class: center, middle, inverse
 - the 1960s-1990s was a time where many criminologists believed that police did not influence crime rates
 - Now, this was based on, random, broad police patrols and evaluating response times
 ---
-class: center, middle
+class: left, middle
 
 ## How might the police reduce crime?
 
@@ -280,11 +280,11 @@ library(memer)
 library(tidyverse)
 
 meme <- meme_get("ExpandingBrain") %>% 
-  meme_text_brain("police do not reduce crime", 
-                  "police may influence crime", 
+  meme_text_brain("olice do not reduce crime", 
+                  "Police may influence crime in some circumstances", 
                   "Concentrating police in high crime areas reduces crime", 
                   "Problem-solving by police in hot spots is evidence-based", 
-                  size = 16)
+                  size = 10)
 # Save to file
 magick::image_write(meme, "meme-police.png")
 
