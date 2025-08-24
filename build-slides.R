@@ -2,7 +2,7 @@ setwd("/Users/wkg28/Library/CloudStorage/Dropbox/MAIN/hugo-website") # Work lapt
 
 # Define paths
 src_dir <- "content/courses/crime-control-strat-2025/slides"
-dst_dir <- "public/courses/crime-control-strat-2025/slides"
+dst_dir <- "static/courses/crime-control-strat-2025/slides"
 
 # Ensure output dir exists
 dir.create(dst_dir, recursive = TRUE, showWarnings = FALSE)

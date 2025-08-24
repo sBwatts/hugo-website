@@ -73,7 +73,7 @@ knitr::include_graphics("incarceration.png")
 .center[Source: [Sentencing Project](https://www.sentencingproject.org/reports/mass-incarceration-trends/)]
 
 ---
-class: center, middle
+class: left, middle
 
 ## Why?
 
@@ -95,7 +95,7 @@ Pfaff argues that the focus should be on:
 1. The lack of institutional accounts
 
 ---
-class: center, middle
+class: left, middle
 
 ## What drove mass incarceration?
 
@@ -177,16 +177,26 @@ Mays & Ruddell (2019)
 ]
 
 ---
-class: center, middle
+class: left, middle
 
 ## Did determinate sentencing laws reduce crime?
 
 ---
 # Determinate Sentencing Effect on Crime
 
-- The short answer: likely not (see [Marvell & Moody, 1996](https://onlinelibrary-wiley-com.ezproxy1.lib.asu.edu/doi/abs/10.1111/j.1745-9125.1996.tb01197.x?casa_token=wpnktMmM20YAAAAA%3ADPV1E6iUJwHn0KxDsj1vlGEuRcaS0Hvj8QdN8Um9L9z29-nIUrkYD0z3GDEYLruKdiE2eKtvexQH_g))
+The short answer: likely not (see [Marvell & Moody, 1996](https://research.ebsco.com/c/siow6l/viewer/pdf/mosnbago4b))
 
-- It appears determinate sentencing did not contribute to large increases in prison populations either
+It appears determinate sentencing did not contribute to large increases in prison populations either
+
+Though, there was substantial variation from state-to-state:
+
+1. Indiana's prison population grew but Minnesota and Washington showed declines
+
+1. An increase in court commitments in Indiana and California but fewer in New Mexico
+
+1. Connecticut and Illinois laws were associated with declines in crime while New Mexico may have had an increase
+
+
 
 ---
 # Prosecutorial Discretion
@@ -216,27 +226,27 @@ class: center, middle
 </div>
 
 .pull-left[
-- Sentencing guidelines are the product of politicians believing that judges had too much power
+Sentencing guidelines are the product of politicians believing that judges had too much power
 
-- Some felt this power resulted in racial disparities in sentencing
+Some felt this power resulted in racial disparities in sentencing
 
-- Guidelines confine judges to a range of sentences based on prior record and severity of the current offense
+Guidelines confine judges to a range of sentences based on prior record and severity of the current offense
 
-- The first sentencing guideline was established in Minnesota in 1980
+The first sentencing guideline was established in Minnesota in 1980
 
-- See a description of [Pennsylvania's matrix](https://www.philacriminaldefenseattorney.com/legal-knowledge/pennsylvania-sentencing-guidelines/)
+See a description of [Pennsylvania's matrix](https://www.philacriminaldefenseattorney.com/legal-knowledge/pennsylvania-sentencing-guidelines/)
 ]
 
 
 ---
-class: center, middle
+class: left, middle
 
 ## Do sentencing guidelines have any effect on recidivism?
 
 ---
 # Sentencing Guidelines Effect on Recidivism
 
-- [Estelle & Philips (2018)](https://www-sciencedirect-com.ezproxy1.lib.asu.edu/science/article/pii/S0047272718300860?casa_token=0n98NonLxnIAAAAA:GR4ZrDcu_v2NJQohR_J5SEHxHwD54u5InUPHyA7502G9OpxOXQVfdI41cDVQD5VYEvTehmQZ) looked at shoplifting and repeat drunk driving offenses in Michigan 
+[Estelle & Philips (2018)](https://www-sciencedirect-com.ezproxy1.lib.asu.edu/science/article/pii/S0047272718300860?casa_token=0n98NonLxnIAAAAA:GR4ZrDcu_v2NJQohR_J5SEHxHwD54u5InUPHyA7502G9OpxOXQVfdI41cDVQD5VYEvTehmQZ) looked at shoplifting and repeat drunk driving offenses in Michigan 
 
 - They find that harsher sentences seem to reduce recidivism for felony shoplifters but not repeat drunk driving offenses
 
@@ -244,7 +254,7 @@ class: center, middle
 
 --
 
-- [Bushway & Owens (2013)](https://www-journals-uchicago-edu.libproxy.txstate.edu/doi/10.1086/669715) look at a state-level shift in *recommended* -not actual- sentencing for 25 different offenses in Maryland
+[Bushway & Owens (2013)](https://www-journals-uchicago-edu.libproxy.txstate.edu/doi/10.1086/669715) look at a state-level shift in *recommended* -not actual- sentencing for 25 different offenses in Maryland
 
   - They find that a 10 percent increase in the recommended sentence, holding actual punishment constant, is associated with a 1.2 percent increase in recidivism
 
@@ -253,11 +263,11 @@ class: center, middle
 ---
 # Mandatory Minimum Sentence
 
-- Lower-bound threshold for a sentence
+Lower-bound threshold for a sentence
 
-- Judges have some discretion here leading to a non-uniform application of the laws 
+Judges have some discretion here leading to a non-uniform application of the laws 
 
-- Likewise, prosecutors have discretion in pursuing charges that include a mandatory minimum
+Likewise, prosecutors have discretion in pursuing charges that include a mandatory minimum
 
 .quote-box[
 **Example**: Of the 64,124 cases reported to the Commission in fiscal year 2023 17,080 involved an offense carrying a statutory mandatory minimum penalty. 16.3% of all individuals were subject to a mandatory minimum penalty at sentencing.
@@ -268,18 +278,18 @@ class: center, middle
 ---
 # Three-Strikes Laws
 
-- Primary goal was to deter and incapacitate repeat offenders convicted of serious felonies
+Primary goal was to deter and incapacitate repeat offenders convicted of serious felonies
 
-- First state to adopt this legislation was Washington, others followed suit quickly
+First state to adopt this legislation was Washington, others followed suit quickly
 
-- One of the primary concerns was "wobbler" cases:
+One of the primary concerns was "wobbler" cases:
 
 .quote-box[
 **Case Law**: Ewing v. California: A repeat offender was sentenced to 25-to-life following his third strike - the theft of three golf clubs, $399 each. The prosecutor could have filed the charge as a misdemeanor but elevated it to a felony, meeting the three strike criteria.
 ]
 
 ---
-class: center, middle
+class: left, middle
 
 ## Did three-strikes laws reduce crime?
 
@@ -288,13 +298,13 @@ class: center, middle
 
 --
 
-- It doesn't appear so...
+It doesn't appear so...
 
 --
 
-- Multiple studies have suggested that three-strikes laws have either no effect at all or actually increase crime (see [Marvell & Moody, 2001](https://www.journals.uchicago.edu/doi/abs/10.1086/468112); [Kovandzic et al. 2004](https://www.tandfonline.com/doi/abs/10.1080/07418820400095791?casa_token=OsXo732mpdQAAAAA:cRCaMYk0GAFcrbBoDSeclUFmJmMUWr0PnTjzIWEr_B4hxAuIgo_ddUbIsGYJesvfACTD07QBiLI); [Worrall, 2004](https://www.sciencedirect.com/science/article/pii/S0047235204000388?casa_token=AUkJezBhl9MAAAAA:mxvmUworAK_bNVYlMejKmobniLbtqZTukL-fWKinKYYlUONzhUfQr8n4ooP1Ck7vYeZk9Nn5))
+Multiple studies have suggested that three-strikes laws have either no effect at all or actually increase crime (see [Marvell & Moody, 2001](https://www.journals.uchicago.edu/doi/abs/10.1086/468112); [Kovandzic et al. 2004](https://www.tandfonline.com/doi/abs/10.1080/07418820400095791?casa_token=OsXo732mpdQAAAAA:cRCaMYk0GAFcrbBoDSeclUFmJmMUWr0PnTjzIWEr_B4hxAuIgo_ddUbIsGYJesvfACTD07QBiLI); [Worrall, 2004](https://www.sciencedirect.com/science/article/pii/S0047235204000388?casa_token=AUkJezBhl9MAAAAA:mxvmUworAK_bNVYlMejKmobniLbtqZTukL-fWKinKYYlUONzhUfQr8n4ooP1Ck7vYeZk9Nn5))
 
-- This could mean a variety of things:
+This could mean a variety of things:
   1. Longer sentences for repeat offenders is ineffective at reducing crime
   2. The application of three-strikes laws was ineffective (e.g., not applied in some places, applied to too many 'wobblers')
   3. Severity of punishment is less likely to change perceptions of risk
@@ -302,22 +312,22 @@ class: center, middle
 ---
 # Truth-in Sentencing
 
-- Typically violent offenders, were to serve 85% of their sentence before parole eligibility 
+Violent offenders were to serve 85% of their sentence before parole eligibility 
 
-- Non-violent offenders with connections to family, friends, and the community may be released early
+Non-violent offenders with connections to family, friends, and the community may be released early
 
 --
 
-- Truth-in Sentencing laws did not drive mass incarceration but it helped maintain it by increasing time served
+Truth-in Sentencing laws did not drive mass incarceration but it helped maintain it by increasing time served
 
 ---
 # Key Takeaways
 
-- Mass incarceration was largely driven by 1) commits per arrest (prosecutorial power), 2) time served (third strike, truth-in sentencing, lengthier sentences in guidelines), and to a lesser extent 3) the War on Drugs
+Mass incarceration was largely driven by 1) commits per arrest (prosecutorial power), 2) time served (third strike, truth-in sentencing, lengthier sentences in guidelines), and to a lesser extent 3) the War on Drugs
 
-- Prosecutors have significant power
+Prosecutors have significant power
 
-- Many laws or policies that increase the severity of punishment have negligible effects on crime
+Many laws or policies that increase the severity of punishment have negligible effects on crime
 
 --
 

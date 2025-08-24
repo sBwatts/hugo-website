@@ -100,9 +100,9 @@ It is useful to breakdown "gun violence" into four categories:
 .panelset[
 .panel[.panel-name[Gang/urban violence]
 
-- Tit-for-tat gun violence over drugs, turf, or disputes
+Tit-for-tat gun violence over drugs, turf, or disputes
 
-- Gun homicides disproportionately affect young, Black men in urban areas
+Gun homicides disproportionately affect young, Black men in urban areas
 .pull-left[
 ```{r, echo=FALSE, out.width="70%", fig.align="center"}
 knitr::include_graphics("firearm-hom.png")
@@ -119,10 +119,10 @@ knitr::include_graphics("race-homicide.png")
 ]
 .panel[.panel-name[Suicide]
 
-- Suicides by firearm represent the majority of gun-related deaths in the US
+Suicides by firearm represent the majority of gun-related deaths in the US
   - In 2023, 58% of gun-related deaths were due to suicide (38% homicide)
   
-- Firearms were used in just over 50% (55%) of the suicides in 2023 (primarily handguns)
+Firearms were used in just over 50% (55%) of the suicides in 2023 (primarily handguns)
 
 .pull-left[
 ```{r, echo=FALSE, out.width="90%", fig.align="center"}
@@ -139,9 +139,9 @@ knitr::include_graphics("suicides2.png")
 ]
 .panel[.panel-name[Intimate partner violence (IPV)]
 
-- IPV gun-related murders increased by 26% between 2010 and 2017
+IPV gun-related murders increased by 26% between 2010 and 2017
 
-- Since approximately 2014, the use of a firearm in IPV murders has increased
+Since approximately 2014, the use of a firearm in IPV murders has increased
 
 .pull-left[
 ```{r, echo=FALSE, out.width="95%", fig.align="center"}
@@ -160,11 +160,11 @@ knitr::include_graphics("ipv2.png")
 
 .panel[.panel-name[Mass killings]
 
-- The definition used here is "...the intentional killing of four or more victims – excluding the deaths of unborn children and the offender(s) – by any means within a 24-hour period."
+The definition used here is "...the intentional killing of four or more victims – excluding the deaths of unborn children and the offender(s) – by any means within a 24-hour period."
 
-- This differs from other definitions that include "mass shootings that *injure* large numbers but may not kill anyone." - Gun Violence Archive
+This differs from other definitions that include "mass shootings that *injure* large numbers but may not kill anyone." - Gun Violence Archive
 
-- Mass killings represent a small fraction of the total number of gun homicides (under 2%)
+Mass killings represent a small fraction of the total number of gun homicides (under 2%)
 
 .pull-left[
 ```{r, echo=FALSE, out.width="65%", fig.align="center"}
@@ -202,7 +202,7 @@ knitr::include_graphics("pew-gunpolicy.png")
 ---
 # Gun Policy
 
-- There are a host of policies that govern the sale, use, and storage of firearms
+There are a host of policies that govern the sale, use, and storage of firearms
 
 .center[**Policies/Legislation**]
 
@@ -215,13 +215,13 @@ knitr::include_graphics("pew-gunpolicy.png")
 | Waiting periods                | Red flag laws                  |
 | Minimum age requirements       | Licensing and permitting       |
 
-- From a pure empirical perspective the sole interest should be to understand the impact of each policy on outcomes of interest
+From a pure empirical perspective the sole interest should be to understand the impact of each policy on outcomes of interest
 
   - Firearm-related deaths (urban violence, suicide, IPV, mass shootings)
   - Robbery
   - Unintentional firearm-related deaths
   - Stolen firearms
-  - Uses of self-defense
+  - Uses in self-defense
 ---
 class: middle, inverse
 
@@ -240,7 +240,7 @@ Unfortunately, sound empirical evidence does not generally drive the discussion 
 
 > "Child-access prevention (CAP) laws allow prosecutors to bring charges against adults who intentionally or carelessly allow children to have unsupervised access to firearms."
 
-- CAP laws have moderate and strong evidence suggesting they can reduce suicides, firearm suicides, firearm homicides, and unintentional firearm injuries or death
+CAP laws have moderate and strong evidence suggesting they can reduce suicides, firearm suicides, firearm homicides, and unintentional firearm injuries or death
 
   - These findings are specific to children and young individuals
   
@@ -251,13 +251,13 @@ knitr::include_graphics("cap.png")
 
 .panel[.panel-name[Waiting periods]
 
-- Waiting periods refer to implementing a delay between purchase and delivery of a firearm (typically days or weeks)
+Waiting periods refer to implementing a delay between purchase and delivery of a firearm (typically days or weeks)
   - As of 2021, California and Washington, DC had a 10 day waiting period; Hawaii had a 14 day waiting period
   - Other states that have a waiting period tend to have shorter timelines
 
-- Waiting periods appear to have limited evidence reducing total suicides and moderate evidence reducing firearm suicides
+Waiting periods appear to have limited evidence reducing total suicides and moderate evidence reducing firearm suicides
 
-- Waiting periods may also reduce total homicides (moderate evidence)
+Waiting periods may also reduce total homicides (moderate evidence)
 
 ```{r, echo=FALSE, out.width="55%", fig.align="center"}
 knitr::include_graphics("waiting-period.png")
@@ -278,9 +278,9 @@ Legislation in 1994 (Violent Crime Control and Law Enforcement Act) also prohibi
 ]
 .panel[.panel-name[Minimum age requirements]
 
-- Moderate evidence suggests that raising the minimum age of firearm purchase to 21 reduces firearm suicides
+Moderate evidence suggests that raising the minimum age of firearm purchase to 21 reduces firearm suicides
 
-- Though this is concentrated among those who get the firearm though legitimate means
+Though this is concentrated among those who get the firearm though legitimate means
 
   - Most report getting a firearm from a friend
 
@@ -294,11 +294,11 @@ Legislation in 1994 (Violent Crime Control and Law Enforcement Act) also prohibi
 .panelset[
 .panel[.panel-name[Shall issue laws]
 
-- Shall-issue laws (or right-to-carry laws) pertain to the guaranteed right to carry a concealed weapon, so long as one is not prohibited from possessing a firearm (e.g. failed background check)
+Shall-issue laws (or right-to-carry laws) pertain to the guaranteed right to carry a concealed weapon, so long as one is not prohibited from possessing a firearm (e.g. failed background check)
 
-- This differs from may-issue laws which adds in a layer of permitting discretion to law enforcement
+This differs from may-issue laws which adds in a layer of permitting discretion to law enforcement
 
-- In *New York State Rifle and Pistol Association v. Bruen (2022)* the Supreme Court decided that the use of subjective criteria for granting conceal carry permits was unconstitutional - overturning the may-issue law in NY and other states
+In *New York State Rifle and Pistol Association v. Bruen (2022)* the Supreme Court decided that the use of subjective criteria for granting conceal carry permits was unconstitutional - overturning the may-issue law in NY and other states
 
 .pull-left[
 Shall-issue laws are associated with:
@@ -315,9 +315,9 @@ knitr::include_graphics("shall-issue.png")
 ]
 .panel[.panel-name[Stand-your-ground laws]
 
-- Self-defense as a legal defense has traditionally meant that one must attempt to retreat to safety if the option is available prior to action
+Self-defense as a legal defense has traditionally meant that one must attempt to retreat to safety if the option is available prior to action
 
-- Stand-your-ground laws effectively do away with that requirement lowering the threshold for justifiable lethal force
+Stand-your-ground laws effectively do away with that requirement lowering the threshold for justifiable lethal force
   - Some have called these laws the "shoot-first laws"
 
 .pull-left[
@@ -346,9 +346,9 @@ knitr::include_graphics("ghost-guns.png")
 ```
 .quote-attrib.center[[The Trace](https://www.thetrace.org/2024/11/ghost-guns-decline-regulation-biden-atf/)]
 
-- Biden's 2022 directive for ATF and DOJ to regulate ghost guns seems to have reduced some of the ghost gun recoveries across the US
+Biden's 2022 directive for ATF and DOJ to regulate ghost guns seems to have reduced some of the ghost gun recoveries across the US
 
-- Nonetheless, unserialized, 3D printed guns still present problems
+Nonetheless, unserialized, 3D printed guns still present problems
 
 ---
 # Complications
@@ -366,16 +366,16 @@ knitr::include_graphics("ghost-guns.png")
 .quote-attrib.right[Webster et al. (2002)]
 ]
 
-- If offenders are obtaining their firearms from friends, family, gang members, or as gifts, it will be difficult to regulate those transactions
+If offenders are obtaining their firearms from friends, family, gang members, or as gifts, it will be difficult to regulate those transactions
 
 ---
 # Key Takeaways
 
-- Evaluating state-level policies can be tricky, requiring sophisticated modeling (no true randomization is possible)
+Evaluating state-level policies can be tricky, requiring sophisticated modeling (no true randomization is possible)
 
-- Gun policy is highly political and public debate about gun policy is rarely grounded in the most rigorous, up-to-date evidence
+Gun policy is highly political and public debate about gun policy is rarely grounded in the most rigorous, up-to-date evidence
 
-- Some laws do impact gun deaths:
+Some laws do impact gun deaths:
   - CAP laws, waiting periods, IPV prohibitions, and minimum age requirements can reduce gun deaths
   - Shall-issue and stand-your-ground laws can increase homicides and firearm homicides
   
