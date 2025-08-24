@@ -8,7 +8,7 @@ author: Seth Watts
 jobtitle: "Assistant Professor, Criminal Justice & Criminology"
 address: "Texas State University · San Marcos, TX"
 fontawesome: yes
-email: sethbwatts@txst.edu
+email: sbwatts@txstate.edu
 github: sbwatts
 # twitter: stevenvmiller
 #osf: "Enter 5 digit osf string here"
@@ -190,6 +190,11 @@ White, M. D. & Watts, S. (January, 2024). Making the Invisible Visible: Body-Wor
 
 # Teaching Experience
 
+*Texas State University*
+
+CJ: 4310 Special Problems in the Criminal Justice System (Online) \hfill 2025
+
+
 *Arizona State University*
 
 ## Instructor
@@ -274,7 +279,7 @@ Peer Mentorship Program (for first year PhD students), Peer Mentorship Program (
 
 ## Service to the Community
 
-Volunteer in Policing (VIP) Tempe Police Department \hfill 2021-
+Volunteer in Policing (VIP) Tempe Police Department \hfill 2021-2025
 
 
 # Professional Affiliations

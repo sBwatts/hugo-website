@@ -118,7 +118,7 @@ div.remark-slide-container .fullscale p {
 
 .wrap-right {
   float: right;
-  margin: 0 0 15px 15px; /* spacing around the image */
+  margin: 0 0 10px 10px; /* spacing around the image */
 }
 
 /* Reusable quote card style for Xaringan + Tachyons */

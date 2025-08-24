@@ -1,4 +1,4 @@
-setwd("/Users/sethwatts/Dropbox (Personal)/MAIN/hugo-website")
+setwd("/Users/wkg28/Library/CloudStorage/Dropbox/MAIN/hugo-website") # Work laptop
 
 # Define paths
 src_dir <- "content/courses/crime-control-strat-2025/slides"

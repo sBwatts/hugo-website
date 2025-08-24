@@ -21,9 +21,9 @@ classhours: "Asynchronous"
 fontfamily: mathpazo
 fontsize: 11pt
 header-includes:
-  - \PassOptionsToPackage{table}{xcolor}   % ensure xcolor gets 'table' option
-  - \usepackage{xcolor}                    % now load xcolor
-  - \usepackage{colortbl}                  % provides \cellcolor, \rowcolor
+  - \PassOptionsToPackage{table}{xcolor}   # ensure xcolor gets 'table' option
+  - \usepackage{xcolor}                    # now load xcolor
+  - \usepackage{colortbl}                  # provides \cellcolor, \rowcolor
   - \linespread{1.05}
   - \definecolor{txst}{HTML}{501214}
    
