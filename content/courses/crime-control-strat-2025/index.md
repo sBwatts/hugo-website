@@ -1,8 +1,8 @@
 ---
 title: "CJ 4310"
-date: 2025-08
+date: 2025-08-25
 author: "Seth Watts"
-summary: "This class will broadly cover crime control strategies. The primary focus will be on how the Criminal Justice System attempts to control criminal activity. Specifically, we will look at the role of the police, courts, and corrections in reducing offending. We will also cover how the community, environment, labor market, technology, and legislation can be utilized to control crime."
+summary: "This class will broadly cover crime control strategies and policies. We will look at the role of the police, courts, and corrections in reducing offending. We will also cover how the community, environment, labor market, technology, and legislation can be utilized to control crime."
 showToc: false
 ---
 
