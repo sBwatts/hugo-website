@@ -44,6 +44,7 @@ August 25, 2025
 knitr::opts_chunk$set(echo = TRUE)
 xaringanExtra::use_tachyons()
 xaringanExtra::use_panelset()
+xaringanExtra::use_webcam(width = 125, height = 125, margin = "5em")
 ```
 ---
 

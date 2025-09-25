@@ -64,7 +64,6 @@ Policing: innovation, intersection with public health issues, and technology; Pr
 
 White, M. D., **Watts, S.**, & Malm, A. (2025). An Evaluation of Truleo’s AI-based Body-Worn Camera Analytics. *CrimRxiv*. ([pre-print](https://www.crimrxiv.com/pub/hy6q0g5t))
 
-White, M. D., **Watts, S.**, Malm, A., & Navarrete, G. B. (2025). Officer Acceptance and Use of AI-Driven Body-Worn Camera Footage Review. *CrimRxiv*. ([pre-print](https://doi.org/10.21428/cb6ab371.291631e5))
 
 # Work in Progress
 
@@ -74,9 +73,11 @@ Watts, S., White, D, M., & Malm, A. AI in Policing: Capturing Police Performance
 
 # Publications
 
-[Google Scholar Profile](https://scholar.google.com/citations?user=_zgKKS0AAAAJ&hl=en&oi=ao): total citations = 126, h-index = 5, i10-index = 4
+[Google Scholar Profile](https://scholar.google.com/citations?user=_zgKKS0AAAAJ&hl=en&oi=ao): total citations = 149, h-index = 6, i10-index = 4
 
 ## Peer-Reviewed Journal Articles
+
+1. White, M. D., **Watts, S.**, Malm, A., & Navarrete, G. B. (2025). Officer Acceptance and Use of AI-Driven Body-Worn Camera Footage Review. *American Journal of Criminal Justice*. ([pre-print](https://doi.org/10.21428/cb6ab371.291631e5)) [(DOI)](https://doi.org/10.1007/s12103-025-09857-0)
 
 1. **Watts, S**., White, M. D., Malm, A., & Perrone, D. (2024). Who is Fatigued? Examining Officer Attitudes Towards People Who Use Opioids, Naloxone, and Their Role in Responding to Opioid Overdoses. *Journal of Criminal Justice*, 95, 102308. [(DOI)](https://doi.org/10.1016/j.jcrimjus.2024.102308) 
 
