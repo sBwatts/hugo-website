@@ -19,8 +19,8 @@ menu:
     - name: teaching
       url: courses/
       weight: 3
-    - name: talks
-      url: "https://sbwatts.github.io/presentations/"
+    #- name: talks
+    #  url: "https://sbwatts.github.io/presentations/"
 
 
 params:
@@ -61,8 +61,8 @@ params:
               url: working-papers/
             - name: teaching
               url: courses/
-            - name: talks
-              url: "https://sbwatts.github.io/presentations/"
+            #- name: talks
+            #  url: "https://sbwatts.github.io/presentations/"
 
     socialIcons:
         - name: CV
