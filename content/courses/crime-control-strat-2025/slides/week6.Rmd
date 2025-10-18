@@ -72,6 +72,10 @@ knitr::include_graphics("incarceration.png")
 ```
 .center[Source: [Sentencing Project](https://www.sentencingproject.org/reports/mass-incarceration-trends/)]
 
+???
+- there are many different explanations for why mass incarceration happened, one of the most prominent is the war on drugs
+  - war on drugs; rise in violent crime; racism; increased police officers; drug markets; increased general punitiveness; the Martinson "nothing works" report
+
 ---
 class: left, middle
 
@@ -93,6 +97,12 @@ Pfaff argues that the focus should be on:
 1. Violent and property crime
 1. Less on sentence length and more on admissions to prison
 1. The lack of institutional accounts
+
+???
+- Pfaff, a leading law/prisons scholar, argues that the war on drugs largely did not impact imprisonment rates
+- He seems to suggest crime rates are important to consider as driving incarceration rates
+- That admissions to prison matter more than time served
+- and that this is likely the result of many local bureaucratic processes affecting prison growth (not a coherent plan)
 
 ---
 class: left, middle
