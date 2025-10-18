@@ -62,7 +62,7 @@ params:
             - name: teaching
               url: courses/
             - name: talks
-              url: "https://sbwatts.github.io/presentations/""
+              url: "https://sbwatts.github.io/presentations/"
 
     socialIcons:
         - name: CV
