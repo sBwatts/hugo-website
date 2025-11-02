@@ -50,7 +50,7 @@ params:
     profileMode:
           enabled: true
           title: Seth Watts, PhD
-          subtitle: "I am an assistant professor at Texas State University. My research focuses broadly on policing, technology, and public health."
+          subtitle: "I am an assistant professor at Texas State University. My research centers on policing, specifically technology, innovation, and the interface between police and public health."
           imageUrl: "headshot.jpeg"
           imageWidth: 160
           imageHeight: 160
